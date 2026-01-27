@@ -1,0 +1,41 @@
+StoreId,StoreName,Region,Latitude,Longitude
+ST001,GrosMarket Como,Toscana,43.641138,9.945352
+ST002,GrosMarket Modena,Piemonte,44.558329,10.705837
+ST003,GrosMarket Ravenna,Emilia-Romagna,44.872888,9.389998
+ST004,GrosMarket Torino,Emilia-Romagna,45.682996,7.270478
+ST005,GrosMarket Milano,Toscana,44.237015,7.511073
+ST006,GrosMarket Chiavari,Piemonte,44.063635,10.535248
+ST007,GrosMarket Brescia,Liguria,44.471614,8.83027
+ST008,GrosMarket Piacenza,Piemonte,45.698993,10.034543
+ST009,GrosMarket Carrara,Lombardia,43.830985,9.258271
+ST010,GrosMarket Lucca,Lombardia,43.742518,8.807865
+ST011,GrosMarket Cuneo,Liguria,43.600419,10.479012
+ST012,GrosMarket Sanremo,Toscana,44.713364,11.190745
+ST013,GrosMarket Savona,Liguria,44.144502,8.209205
+ST014,GrosMarket La Spezia,Toscana,44.078527,9.335491
+ST015,GrosMarket Livorno,Liguria,45.610384,10.832845
+ST016,GrosMarket Massa,Emilia-Romagna,44.440021,9.075254
+ST017,GrosMarket Forlì,Lombardia,44.405017,7.573024
+ST018,GrosMarket Pavia,Emilia-Romagna,45.766936,10.535709
+ST019,GrosMarket Imperia,Toscana,45.304568,9.241052
+ST020,GrosMarket Asti,Toscana,44.223932,7.947855
+ST021,GrosMarket Reggio Emilia,Valle d'Aosta,44.120814,10.867123
+ST022,GrosMarket Rimini,Liguria,44.609492,8.25315
+ST023,GrosMarket Siena,Liguria,44.895814,8.118834
+ST024,GrosMarket Cremona,Valle d'Aosta,44.976734,8.70215
+ST025,GrosMarket Alessandria,Liguria,44.021926,8.759386
+ST026,GrosMarket Grosseto,Emilia-Romagna,44.372478,8.10229
+ST027,GrosMarket Aosta,Valle d'Aosta,45.001426,7.855851
+ST028,GrosMarket Prato,Liguria,44.454803,8.813575
+ST029,GrosMarket Genova,Lombardia,45.276165,10.719007
+ST030,GrosMarket Viareggio,Liguria,45.043109,10.482942
+ST031,GrosMarket Firenze,Piemonte,45.168019,9.855359
+ST032,GrosMarket Parma,Toscana,44.574615,9.232873
+ST033,GrosMarket Monza,Piemonte,45.689579,9.13414
+ST034,GrosMarket Arezzo,Emilia-Romagna,43.768974,9.139209
+ST035,GrosMarket Bologna,Emilia-Romagna,44.957885,11.157382
+ST036,GrosMarket Novara,Liguria,44.737792,10.272537
+ST037,GrosMarket Varese,Emilia-Romagna,45.484476,7.278764
+ST038,GrosMarket Pisa,Liguria,43.744707,10.358456
+ST039,GrosMarket Sestri Levante,Piemonte,44.47497,9.307624
+ST040,GrosMarket Bergamo,Liguria,44.98216,7.867231
