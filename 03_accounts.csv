@@ -1,0 +1,551 @@
+AccountId,AccountName,VATNumber,Industry,City,Province,Region,CustomerTier,CreatedDate
+AC00001,Mensa SVZN4R SPA,10000000001,Macelleria,La Spezia,RA,Liguria,Bronze,2024-01-08
+AC00002,Hotel EGB1AJ SAS,10000000002,Panificio,Chiavari,GR,Piemonte,Silver,2022-08-24
+AC00003,Catering O091C7 Ditta Individuale,10000000003,Bar,Lucca,AO,Piemonte,Bronze,2022-07-02
+AC00004,Ristorante 95RLQI SRL,10000000004,Bar,Pisa,SP,Valle d'Aosta,Bronze,2023-12-13
+AC00005,Altro OB0NLW Cooperativa,10000000005,Alimentari,Viareggio,CR,Emilia-Romagna,Bronze,2023-03-20
+AC00006,Pescheria 0VS52S Cooperativa,10000000006,Gelateria,Ravenna,PO,Piemonte,Platinum,2023-09-15
+AC00007,Pescheria Q3B9SO Ditta Individuale,10000000007,Ristorante,Forlì,MS,Lombardia,Gold,2024-10-26
+AC00008,Ristorante 0USWBK SRL,10000000008,Pizzeria,Parma,IM,Liguria,Silver,2025-06-13
+AC00009,Alimentari OK3QPW SRL,10000000009,Pizzeria,Aosta,CR,Valle d'Aosta,Silver,2025-02-24
+AC00010,Altro BSF3Q0 Cooperativa,10000000010,Bar,Chiavari,BS,Toscana,Silver,2025-02-01
+AC00011,Pizzeria E27ZEO SPA,10000000011,Pizzeria,Massa,SP,Toscana,Silver,2024-01-19
+AC00012,Ristorante QGVZHQ SAS,10000000012,Pescheria,Sanremo,SI,Emilia-Romagna,Silver,2022-06-04
+AC00013,Panificio JY62ZE SPA,10000000013,Ristorante,Viareggio,AR,Lombardia,Silver,2022-09-14
+AC00014,Pizzeria EQNSN2 Cooperativa,10000000014,Bar,Piacenza,AT,Piemonte,Bronze,2022-08-23
+AC00015,Pescheria S8NN16 SAS,10000000015,Catering,Massa,BS,Toscana,Bronze,2023-05-15
+AC00016,Mensa UXF5GZ Ditta Individuale,10000000016,Macelleria,Piacenza,GE,Emilia-Romagna,Silver,2022-10-16
+AC00017,Ristorante PL1QWE Cooperativa,10000000017,Altro,Alessandria,LI,Liguria,Gold,2023-05-25
+AC00018,Catering EHWJQ4 SPA,10000000018,Catering,Milano,SI,Lombardia,Silver,2023-12-10
+AC00019,Pizzeria TA5IVR Cooperativa,10000000019,Mensa,Rimini,BG,Lombardia,Gold,2024-02-24
+AC00020,Gelateria OCVITW Ditta Individuale,10000000020,Alimentari,Modena,MO,Emilia-Romagna,Platinum,2024-06-12
+AC00021,Gelateria U3BFXB SAS,10000000021,Alimentari,Milano,BS,Emilia-Romagna,Bronze,2024-02-15
+AC00022,Macelleria 4Y4K7B SRL,10000000022,Bar,Como,RA,Piemonte,Silver,2022-10-25
+AC00023,Panificio PGYVYV SAS,10000000023,Bar,Piacenza,MS,Emilia-Romagna,Silver,2022-05-17
+AC00024,Macelleria 2GQU7D SRL,10000000024,Bar,Firenze,LU,Piemonte,Platinum,2023-01-11
+AC00025,Bar KNNCPT SAS,10000000025,Alimentari,Novara,CO,Piemonte,Platinum,2022-03-28
+AC00026,Alimentari KEZJSS Ditta Individuale,10000000026,Ristorante,Arezzo,CN,Valle d'Aosta,Silver,2025-12-13
+AC00027,Panificio ZWD0W9 Cooperativa,10000000027,Macelleria,Asti,IM,Lombardia,Bronze,2025-05-07
+AC00028,Bar RY79KV SAS,10000000028,Ristorante,Pisa,MO,Liguria,Gold,2023-03-13
+AC00029,Catering LS9MEU SRL,10000000029,Bar,Bergamo,FI,Lombardia,Bronze,2025-08-26
+AC00030,Ristorante SWRGVZ SPA,10000000030,Alimentari,Parma,NO,Lombardia,Gold,2025-07-28
+AC00031,Ristorante 9AAWE4 Ditta Individuale,10000000031,Pizzeria,Varese,SI,Valle d'Aosta,Gold,2025-09-08
+AC00032,Mensa 29OMUW SPA,10000000032,Ristorante,Sestri Levante,AO,Piemonte,Silver,2024-02-03
+AC00033,Hotel AHK2LS SAS,10000000033,Bar,Torino,FC,Piemonte,Silver,2023-12-03
+AC00034,Bar LAYM0W SRL,10000000034,Altro,Monza,RN,Emilia-Romagna,Silver,2024-07-30
+AC00035,Hotel BGLMY6 SAS,10000000035,Bar,Sanremo,CN,Valle d'Aosta,Silver,2022-06-01
+AC00036,Altro 2XRW6T SAS,10000000036,Bar,Aosta,SV,Emilia-Romagna,Bronze,2025-08-18
+AC00037,Pizzeria M2O04K SAS,10000000037,Panificio,Chiavari,BS,Valle d'Aosta,Gold,2025-07-25
+AC00038,Pescheria 0LTHY2 SPA,10000000038,Ristorante,Como,PI,Emilia-Romagna,Platinum,2024-10-28
+AC00039,Pizzeria 5M8KB9 Ditta Individuale,10000000039,Catering,Massa,AO,Toscana,Platinum,2024-03-17
+AC00040,Pescheria W4UOV5 SRL,10000000040,Hotel,Massa,RE,Lombardia,Bronze,2022-08-23
+AC00041,Pizzeria 1ZLBOR Ditta Individuale,10000000041,Bar,Savona,CR,Lombardia,Gold,2023-11-06
+AC00042,Altro IQ8HKE SPA,10000000042,Bar,Grosseto,MB,Liguria,Gold,2023-07-15
+AC00043,Catering 226PAR SPA,10000000043,Ristorante,La Spezia,RA,Piemonte,Bronze,2025-08-18
+AC00044,Bar SG70S1 Cooperativa,10000000044,Bar,Sanremo,IM,Liguria,Bronze,2022-02-07
+AC00045,Bar F537YE SPA,10000000045,Ristorante,Genova,BO,Toscana,Bronze,2025-03-05
+AC00046,Pizzeria 0QZSA7 SPA,10000000046,Gelateria,Siena,MO,Liguria,Gold,2024-04-01
+AC00047,Macelleria YVDQBS SRL,10000000047,Hotel,Reggio Emilia,RE,Lombardia,Silver,2023-02-25
+AC00048,Ristorante XLUL6L SRL,10000000048,Catering,Torino,PC,Piemonte,Gold,2025-05-27
+AC00049,Pescheria GJLPEF Ditta Individuale,10000000049,Macelleria,Pisa,IM,Toscana,Bronze,2022-12-14
+AC00050,Pescheria JAWSHM Ditta Individuale,10000000050,Pizzeria,Viareggio,CN,Lombardia,Gold,2025-01-07
+AC00051,Bar LFZKIC Cooperativa,10000000051,Ristorante,Sestri Levante,PC,Emilia-Romagna,Bronze,2024-01-18
+AC00052,Catering WMPEQY SRL,10000000052,Pescheria,Pavia,SV,Valle d'Aosta,Silver,2022-09-30
+AC00053,Hotel DBPGVV SAS,10000000053,Bar,Livorno,SI,Toscana,Silver,2025-03-30
+AC00054,Panificio 4ZWL3Z SAS,10000000054,Ristorante,Forlì,PC,Piemonte,Bronze,2022-11-04
+AC00055,Alimentari YT91QE SPA,10000000055,Mensa,Siena,PR,Liguria,Gold,2025-10-29
+AC00056,Pizzeria 37QQYZ SPA,10000000056,Alimentari,Massa,TO,Liguria,Bronze,2024-09-02
+AC00057,Alimentari QII4W6 SPA,10000000057,Catering,La Spezia,CN,Toscana,Silver,2024-01-03
+AC00058,Gelateria OZX25Q Ditta Individuale,10000000058,Bar,Piacenza,CN,Piemonte,Silver,2024-10-29
+AC00059,Bar BRMQG1 SRL,10000000059,Alimentari,Piacenza,LU,Toscana,Silver,2023-03-20
+AC00060,Altro VED32L SRL,10000000060,Bar,Firenze,BO,Piemonte,Bronze,2025-02-10
+AC00061,Ristorante X2TOOW Cooperativa,10000000061,Macelleria,Siena,CO,Liguria,Bronze,2025-05-13
+AC00062,Catering T9NM3V SRL,10000000062,Bar,Piacenza,CO,Lombardia,Gold,2023-02-09
+AC00063,Panificio 2P2TIX Ditta Individuale,10000000063,Panificio,Carrara,AT,Emilia-Romagna,Bronze,2024-05-02
+AC00064,Hotel C7URVQ SRL,10000000064,Alimentari,Pisa,PO,Lombardia,Gold,2025-05-05
+AC00065,Macelleria T3G8CD Ditta Individuale,10000000065,Gelateria,Reggio Emilia,PC,Emilia-Romagna,Platinum,2024-02-17
+AC00066,Panificio 31NRXD Cooperativa,10000000066,Pizzeria,Arezzo,MO,Liguria,Bronze,2022-04-25
+AC00067,Macelleria 356WAF SRL,10000000067,Pizzeria,Reggio Emilia,CN,Lombardia,Bronze,2025-02-18
+AC00068,Macelleria FTOUHY SAS,10000000068,Bar,Modena,AT,Lombardia,Silver,2022-03-06
+AC00069,Pescheria LU6K7P SAS,10000000069,Bar,Varese,VA,Toscana,Platinum,2025-07-23
+AC00070,Hotel 9MDA9O Ditta Individuale,10000000070,Bar,Bologna,AT,Valle d'Aosta,Gold,2024-04-04
+AC00071,Pescheria EKNTBZ Cooperativa,10000000071,Panificio,Sanremo,CN,Liguria,Silver,2022-08-27
+AC00072,Panificio 3M55IZ Ditta Individuale,10000000072,Gelateria,Forlì,PR,Piemonte,Gold,2022-10-29
+AC00073,Catering OLNNTX Cooperativa,10000000073,Catering,Livorno,LI,Liguria,Bronze,2025-11-16
+AC00074,Pescheria RGN74F SRL,10000000074,Ristorante,Varese,PO,Piemonte,Platinum,2024-08-26
+AC00075,Pescheria 9YECAZ SAS,10000000075,Hotel,Piacenza,AR,Piemonte,Platinum,2023-01-04
+AC00076,Hotel RP9DXO Ditta Individuale,10000000076,Pizzeria,Reggio Emilia,TO,Emilia-Romagna,Bronze,2022-08-21
+AC00077,Ristorante Q2VPGS SPA,10000000077,Catering,Bergamo,AT,Piemonte,Bronze,2022-07-14
+AC00078,Panificio TQMGVU SRL,10000000078,Gelateria,Livorno,VA,Piemonte,Bronze,2024-06-25
+AC00079,Macelleria 4ISOTN SAS,10000000079,Altro,Cremona,PR,Toscana,Bronze,2024-11-01
+AC00080,Catering 9UZERY Cooperativa,10000000080,Bar,Pisa,PI,Lombardia,Gold,2024-07-09
+AC00081,Gelateria F0992Q SRL,10000000081,Catering,Modena,AO,Liguria,Silver,2023-11-20
+AC00082,Alimentari C6DR08 Ditta Individuale,10000000082,Catering,Cremona,FC,Liguria,Bronze,2022-06-26
+AC00083,Ristorante CW2LBM SRL,10000000083,Bar,Chiavari,AO,Piemonte,Bronze,2022-08-05
+AC00084,Alimentari 2QSQ0P SPA,10000000084,Bar,Pavia,RN,Valle d'Aosta,Platinum,2024-10-31
+AC00085,Bar 82KB70 SPA,10000000085,Ristorante,Parma,AL,Liguria,Silver,2023-09-22
+AC00086,Bar 0UCRGB SPA,10000000086,Panificio,Forlì,RA,Piemonte,Silver,2022-06-13
+AC00087,Macelleria 93WKCS SRL,10000000087,Hotel,Forlì,RA,Emilia-Romagna,Bronze,2022-02-22
+AC00088,Pescheria 4KEK4A SAS,10000000088,Alimentari,Forlì,RE,Emilia-Romagna,Platinum,2022-08-06
+AC00089,Mensa EGVFQ3 SAS,10000000089,Macelleria,Milano,RA,Emilia-Romagna,Gold,2024-09-25
+AC00090,Bar JZR25M SPA,10000000090,Gelateria,Monza,RA,Piemonte,Bronze,2024-04-03
+AC00091,Catering DF7FR9 SPA,10000000091,Ristorante,Sanremo,RN,Toscana,Bronze,2025-10-15
+AC00092,Gelateria 1IPWH0 SPA,10000000092,Alimentari,Massa,AT,Valle d'Aosta,Bronze,2023-01-20
+AC00093,Macelleria MX1EGO SRL,10000000093,Catering,Forlì,SI,Piemonte,Bronze,2022-02-25
+AC00094,Mensa K01TNZ SPA,10000000094,Gelateria,Cuneo,SP,Toscana,Silver,2022-04-28
+AC00095,Gelateria RF5A7Q SPA,10000000095,Mensa,Firenze,SV,Toscana,Platinum,2024-06-18
+AC00096,Macelleria Y8YB7W SRL,10000000096,Pizzeria,Cremona,IM,Liguria,Silver,2025-06-30
+AC00097,Panificio 8P74MJ Cooperativa,10000000097,Hotel,Torino,AL,Piemonte,Gold,2024-03-08
+AC00098,Pizzeria DXO100 SPA,10000000098,Gelateria,Forlì,CN,Piemonte,Silver,2024-02-19
+AC00099,Panificio VHMYGT SRL,10000000099,Ristorante,Alessandria,IM,Toscana,Gold,2024-10-12
+AC00100,Altro Y3ADDQ Ditta Individuale,10000000100,Ristorante,Massa,FI,Toscana,Gold,2024-03-13
+AC00101,Ristorante HKGAD7 Cooperativa,10000000101,Bar,Sestri Levante,SP,Toscana,Bronze,2024-04-24
+AC00102,Panificio X48WZE SAS,10000000102,Ristorante,Modena,RA,Liguria,Silver,2025-04-18
+AC00103,Gelateria 4EX6U8 SPA,10000000103,Bar,Brescia,GR,Piemonte,Silver,2025-12-09
+AC00104,Alimentari 6ZJQ7W SAS,10000000104,Panificio,Como,PV,Toscana,Bronze,2025-06-12
+AC00105,Macelleria 7JP61L SPA,10000000105,Pescheria,Alessandria,BS,Emilia-Romagna,Silver,2024-05-04
+AC00106,Pescheria FC1NLC Ditta Individuale,10000000106,Bar,Parma,NO,Piemonte,Silver,2023-12-09
+AC00107,Pizzeria 8JPR7V SAS,10000000107,Bar,Alessandria,PC,Liguria,Platinum,2025-01-08
+AC00108,Gelateria GRF1HX Ditta Individuale,10000000108,Bar,Rimini,GE,Emilia-Romagna,Silver,2022-01-22
+AC00109,Bar 6ZDCUJ Ditta Individuale,10000000109,Bar,Imperia,RE,Lombardia,Gold,2024-04-22
+AC00110,Pescheria Q6FX7X Cooperativa,10000000110,Ristorante,Cremona,MO,Piemonte,Silver,2025-01-21
+AC00111,Altro JZ6US7 SAS,10000000111,Macelleria,Pisa,NO,Lombardia,Gold,2022-07-11
+AC00112,Bar RP422T SPA,10000000112,Bar,Modena,NO,Toscana,Silver,2024-10-15
+AC00113,Macelleria A83RU7 SRL,10000000113,Catering,Sanremo,PV,Liguria,Gold,2025-01-31
+AC00114,Catering MYOW8D Cooperativa,10000000114,Ristorante,Forlì,PO,Toscana,Silver,2023-01-31
+AC00115,Pescheria T8CQ1X Ditta Individuale,10000000115,Panificio,Como,RN,Liguria,Silver,2024-10-27
+AC00116,Altro GBNGZ6 SRL,10000000116,Mensa,Carrara,BG,Valle d'Aosta,Silver,2023-10-02
+AC00117,Mensa WMDW0F SPA,10000000117,Pescheria,Piacenza,NO,Toscana,Silver,2024-10-15
+AC00118,Pizzeria GZVRCT SAS,10000000118,Gelateria,Lucca,VA,Lombardia,Bronze,2023-07-21
+AC00119,Panificio LT4Q9B SRL,10000000119,Bar,Piacenza,NO,Liguria,Bronze,2022-08-19
+AC00120,Pizzeria C2BE3Y Cooperativa,10000000120,Bar,Savona,BS,Toscana,Bronze,2024-05-23
+AC00121,Alimentari QY5FU7 SRL,10000000121,Pizzeria,Chiavari,LI,Piemonte,Gold,2023-07-28
+AC00122,Macelleria BFXQ7B Ditta Individuale,10000000122,Hotel,Parma,RA,Liguria,Bronze,2022-08-28
+AC00123,Alimentari ZEGBL2 SAS,10000000123,Alimentari,Genova,RA,Liguria,Bronze,2022-03-31
+AC00124,Mensa QGV3DR SPA,10000000124,Ristorante,Bologna,LI,Toscana,Gold,2022-08-20
+AC00125,Catering 2H2P39 SPA,10000000125,Ristorante,Parma,BS,Valle d'Aosta,Bronze,2023-04-02
+AC00126,Hotel YL9UE4 Ditta Individuale,10000000126,Alimentari,Genova,IM,Toscana,Silver,2022-08-21
+AC00127,Alimentari 21VMEF SRL,10000000127,Alimentari,Viareggio,RA,Lombardia,Bronze,2022-12-20
+AC00128,Catering OZTP7B Ditta Individuale,10000000128,Mensa,Savona,VA,Lombardia,Platinum,2024-10-01
+AC00129,Altro D4W1AR SPA,10000000129,Ristorante,Modena,SP,Liguria,Gold,2025-09-18
+AC00130,Gelateria AGDX5O SAS,10000000130,Alimentari,Asti,TO,Liguria,Gold,2023-03-15
+AC00131,Mensa 31YHXS SRL,10000000131,Bar,Reggio Emilia,RA,Toscana,Silver,2025-10-30
+AC00132,Alimentari O7VBGR Cooperativa,10000000132,Ristorante,Firenze,BO,Lombardia,Gold,2025-08-08
+AC00133,Macelleria 8W2MAI Ditta Individuale,10000000133,Hotel,Sestri Levante,SV,Lombardia,Bronze,2022-12-11
+AC00134,Gelateria ETDN1T SRL,10000000134,Ristorante,Siena,LI,Valle d'Aosta,Bronze,2023-10-26
+AC00135,Mensa H1XJG2 Cooperativa,10000000135,Bar,Massa,LU,Piemonte,Bronze,2025-12-22
+AC00136,Catering Y8RGYB SAS,10000000136,Bar,Sestri Levante,FI,Valle d'Aosta,Silver,2023-10-19
+AC00137,Ristorante XKPM21 SAS,10000000137,Bar,Reggio Emilia,RA,Emilia-Romagna,Silver,2022-05-10
+AC00138,Macelleria B07G2R SRL,10000000138,Ristorante,Pavia,IM,Valle d'Aosta,Silver,2022-05-21
+AC00139,Ristorante E6ZVLH Cooperativa,10000000139,Ristorante,Ravenna,PI,Toscana,Bronze,2023-02-19
+AC00140,Panificio YL2LD0 SPA,10000000140,Bar,Chiavari,LI,Piemonte,Silver,2025-01-21
+AC00141,Hotel 5NHQR6 SRL,10000000141,Ristorante,Arezzo,PC,Toscana,Gold,2023-09-18
+AC00142,Pizzeria F7QNEZ Cooperativa,10000000142,Pizzeria,Chiavari,MS,Emilia-Romagna,Silver,2022-10-11
+AC00143,Macelleria W9HEYC SRL,10000000143,Bar,Varese,RA,Piemonte,Gold,2022-08-11
+AC00144,Altro E4QGM5 SPA,10000000144,Bar,Arezzo,CO,Liguria,Bronze,2024-01-14
+AC00145,Panificio V2WWG8 SRL,10000000145,Bar,Prato,RN,Lombardia,Gold,2023-04-08
+AC00146,Alimentari 4D4R9V Cooperativa,10000000146,Pizzeria,Siena,SV,Valle d'Aosta,Silver,2025-07-23
+AC00147,Catering 4K00IL Cooperativa,10000000147,Panificio,Forlì,PR,Toscana,Bronze,2025-03-09
+AC00148,Ristorante U6VFUA Cooperativa,10000000148,Mensa,Siena,CR,Emilia-Romagna,Bronze,2022-12-23
+AC00149,Bar 9BQ1BT Cooperativa,10000000149,Mensa,Chiavari,AO,Lombardia,Silver,2024-11-12
+AC00150,Pizzeria R23QIU Ditta Individuale,10000000150,Alimentari,Varese,PI,Valle d'Aosta,Gold,2025-07-17
+AC00151,Bar A08EKX SRL,10000000151,Pizzeria,Rimini,CR,Lombardia,Silver,2024-05-08
+AC00152,Ristorante DRKZ40 SPA,10000000152,Alimentari,Pavia,CN,Valle d'Aosta,Bronze,2023-10-27
+AC00153,Macelleria AQ15O2 SPA,10000000153,Bar,Siena,SV,Liguria,Gold,2025-09-18
+AC00154,Macelleria NQW4C6 SAS,10000000154,Bar,Firenze,VA,Piemonte,Silver,2024-10-11
+AC00155,Altro LBPJ8T SPA,10000000155,Bar,Arezzo,VA,Lombardia,Silver,2022-03-26
+AC00156,Catering 22C50B SAS,10000000156,Macelleria,Varese,SP,Lombardia,Silver,2023-09-13
+AC00157,Panificio 8Y5DNW SAS,10000000157,Alimentari,Modena,FI,Lombardia,Bronze,2024-11-20
+AC00158,Altro NGUCZH SPA,10000000158,Mensa,Massa,SV,Piemonte,Silver,2022-08-28
+AC00159,Mensa 9IER7U SPA,10000000159,Hotel,Arezzo,LI,Emilia-Romagna,Silver,2022-12-29
+AC00160,Pizzeria 8H0IMJ Ditta Individuale,10000000160,Hotel,Chiavari,NO,Valle d'Aosta,Platinum,2024-04-01
+AC00161,Gelateria YJCMRS SPA,10000000161,Ristorante,Parma,AL,Liguria,Silver,2025-11-13
+AC00162,Panificio EZYTKW SRL,10000000162,Ristorante,Cremona,MS,Lombardia,Silver,2023-10-30
+AC00163,Ristorante 2837C6 SPA,10000000163,Gelateria,Parma,BG,Piemonte,Silver,2025-08-15
+AC00164,Hotel QC6K8D SAS,10000000164,Alimentari,Milano,PI,Emilia-Romagna,Gold,2025-10-26
+AC00165,Gelateria JZR5SW SAS,10000000165,Bar,Torino,MB,Valle d'Aosta,Gold,2022-04-09
+AC00166,Ristorante K8TEMP Cooperativa,10000000166,Gelateria,Imperia,AT,Piemonte,Silver,2022-02-16
+AC00167,Bar XKC5I8 SAS,10000000167,Bar,Grosseto,FI,Liguria,Gold,2024-04-18
+AC00168,Hotel XOMXLV Cooperativa,10000000168,Altro,Monza,LU,Liguria,Silver,2023-02-26
+AC00169,Pizzeria Z4QKE2 SRL,10000000169,Hotel,Massa,BS,Valle d'Aosta,Silver,2022-03-03
+AC00170,Bar GJR81B Cooperativa,10000000170,Bar,Sestri Levante,SI,Lombardia,Bronze,2025-02-06
+AC00171,Ristorante MQF7ZK Cooperativa,10000000171,Bar,Rimini,AL,Liguria,Silver,2025-02-16
+AC00172,Mensa 94YXFI SAS,10000000172,Ristorante,Imperia,BG,Emilia-Romagna,Bronze,2024-10-06
+AC00173,Ristorante BLEJGU Cooperativa,10000000173,Ristorante,Cuneo,VA,Piemonte,Gold,2023-08-21
+AC00174,Alimentari BLMNTF SAS,10000000174,Pizzeria,Novara,FC,Emilia-Romagna,Bronze,2025-11-06
+AC00175,Ristorante K7ORFQ SPA,10000000175,Panificio,Modena,BS,Lombardia,Platinum,2023-01-27
+AC00176,Mensa LA09LZ SAS,10000000176,Gelateria,Rimini,MI,Emilia-Romagna,Silver,2024-09-03
+AC00177,Ristorante RK79UF Cooperativa,10000000177,Ristorante,Rimini,BO,Emilia-Romagna,Silver,2024-12-11
+AC00178,Ristorante U6PY06 SRL,10000000178,Alimentari,Pisa,AO,Toscana,Silver,2023-08-26
+AC00179,Ristorante FTLO4Q SPA,10000000179,Ristorante,Novara,SP,Emilia-Romagna,Bronze,2025-08-05
+AC00180,Panificio DBXVH7 SPA,10000000180,Ristorante,Lucca,MI,Valle d'Aosta,Silver,2022-12-03
+AC00181,Hotel KATQYD Cooperativa,10000000181,Pizzeria,Varese,CR,Piemonte,Bronze,2024-03-20
+AC00182,Alimentari SHLV76 SPA,10000000182,Alimentari,Cuneo,PR,Toscana,Silver,2025-05-12
+AC00183,Macelleria MF4NNK Ditta Individuale,10000000183,Ristorante,Reggio Emilia,AO,Piemonte,Silver,2025-06-15
+AC00184,Panificio M95D0P Ditta Individuale,10000000184,Ristorante,Aosta,SP,Piemonte,Gold,2025-11-06
+AC00185,Panificio 92K38P SRL,10000000185,Altro,Aosta,PO,Lombardia,Bronze,2024-01-22
+AC00186,Panificio 6FVDHR SRL,10000000186,Ristorante,Como,BG,Lombardia,Bronze,2025-03-05
+AC00187,Hotel 59C81D Ditta Individuale,10000000187,Catering,Cuneo,CN,Toscana,Silver,2025-12-01
+AC00188,Hotel O6OUZ1 SRL,10000000188,Alimentari,Massa,RA,Liguria,Platinum,2025-10-17
+AC00189,Mensa EGNTB3 Cooperativa,10000000189,Ristorante,Savona,CO,Lombardia,Gold,2025-11-05
+AC00190,Hotel 4KUQAA SPA,10000000190,Ristorante,Prato,PV,Lombardia,Silver,2024-05-30
+AC00191,Bar J84RX6 SRL,10000000191,Hotel,Sanremo,CO,Lombardia,Silver,2023-09-27
+AC00192,Hotel PRYIEJ SPA,10000000192,Mensa,Novara,BO,Piemonte,Bronze,2022-09-11
+AC00193,Alimentari 9C0UU5 SRL,10000000193,Alimentari,Grosseto,PV,Toscana,Platinum,2025-02-11
+AC00194,Gelateria WRYESU SAS,10000000194,Pizzeria,Imperia,PC,Piemonte,Silver,2022-01-20
+AC00195,Hotel 4FCL5E SAS,10000000195,Altro,Bergamo,GR,Valle d'Aosta,Bronze,2023-06-12
+AC00196,Gelateria FJP6MK Ditta Individuale,10000000196,Mensa,Asti,LI,Piemonte,Silver,2025-03-14
+AC00197,Panificio T7S1GD Ditta Individuale,10000000197,Catering,Rimini,LI,Valle d'Aosta,Bronze,2025-05-16
+AC00198,Altro 1T53YK Ditta Individuale,10000000198,Catering,Monza,MO,Emilia-Romagna,Platinum,2023-01-11
+AC00199,Panificio YYDU3A SRL,10000000199,Pizzeria,Genova,FI,Emilia-Romagna,Bronze,2022-06-15
+AC00200,Bar SNRM6D SAS,10000000200,Pizzeria,Reggio Emilia,MS,Valle d'Aosta,Silver,2025-04-19
+AC00201,Pizzeria FHG6W3 Ditta Individuale,10000000201,Alimentari,Carrara,MO,Valle d'Aosta,Bronze,2024-05-10
+AC00202,Pescheria STT1EQ SAS,10000000202,Pizzeria,Sanremo,CN,Piemonte,Gold,2023-09-09
+AC00203,Hotel C37RLN SPA,10000000203,Ristorante,Ravenna,CN,Valle d'Aosta,Gold,2023-09-04
+AC00204,Hotel 36V1MZ SPA,10000000204,Catering,Sanremo,SP,Toscana,Silver,2025-09-17
+AC00205,Mensa B3I4FI Ditta Individuale,10000000205,Bar,La Spezia,AR,Emilia-Romagna,Silver,2023-05-18
+AC00206,Pescheria EECY2C Ditta Individuale,10000000206,Ristorante,Carrara,GE,Emilia-Romagna,Gold,2024-07-01
+AC00207,Catering 11BD2S SPA,10000000207,Ristorante,Grosseto,FI,Liguria,Bronze,2022-03-20
+AC00208,Macelleria CEJCY1 SPA,10000000208,Pizzeria,Rimini,TO,Valle d'Aosta,Bronze,2023-08-08
+AC00209,Pescheria 27H6GM SPA,10000000209,Alimentari,Brescia,PI,Lombardia,Bronze,2023-11-19
+AC00210,Bar D478MF SRL,10000000210,Bar,Savona,MS,Lombardia,Platinum,2023-01-31
+AC00211,Panificio S0IUDU Ditta Individuale,10000000211,Catering,Forlì,CO,Valle d'Aosta,Silver,2025-01-31
+AC00212,Altro AHGK6T SAS,10000000212,Alimentari,Torino,MB,Toscana,Gold,2023-02-06
+AC00213,Gelateria 9DHSZN SRL,10000000213,Bar,Modena,TO,Lombardia,Silver,2024-09-01
+AC00214,Catering VP8GMN SRL,10000000214,Pizzeria,Torino,AT,Liguria,Bronze,2022-08-12
+AC00215,Macelleria HIE9ED SAS,10000000215,Gelateria,Cremona,MI,Valle d'Aosta,Bronze,2023-06-02
+AC00216,Alimentari E1ZUBL Cooperativa,10000000216,Gelateria,Forlì,AL,Toscana,Bronze,2023-09-26
+AC00217,Mensa EKVL9P SAS,10000000217,Pizzeria,Prato,SV,Toscana,Silver,2022-08-24
+AC00218,Catering TK4GC4 SRL,10000000218,Alimentari,Viareggio,FI,Piemonte,Bronze,2025-12-21
+AC00219,Hotel RYG9RD Cooperativa,10000000219,Ristorante,Pisa,CN,Toscana,Bronze,2022-04-26
+AC00220,Hotel PXDFOV Ditta Individuale,10000000220,Bar,Aosta,MO,Lombardia,Gold,2025-04-01
+AC00221,Pescheria D79C9M Ditta Individuale,10000000221,Ristorante,Imperia,MS,Lombardia,Platinum,2022-08-14
+AC00222,Panificio V9E40K Ditta Individuale,10000000222,Altro,Chiavari,BG,Valle d'Aosta,Bronze,2022-08-18
+AC00223,Pizzeria ZUJ2XO Cooperativa,10000000223,Ristorante,Imperia,PV,Valle d'Aosta,Bronze,2022-07-01
+AC00224,Macelleria RVORK1 SRL,10000000224,Ristorante,Como,BO,Toscana,Bronze,2025-06-26
+AC00225,Mensa DJRWED SPA,10000000225,Panificio,Lucca,FI,Liguria,Silver,2025-09-03
+AC00226,Alimentari BCY8NY SAS,10000000226,Pescheria,Savona,PR,Emilia-Romagna,Gold,2022-07-29
+AC00227,Catering FWDC11 SAS,10000000227,Mensa,Chiavari,SV,Piemonte,Bronze,2025-11-16
+AC00228,Alimentari 2HXRJM Cooperativa,10000000228,Ristorante,Sanremo,PV,Emilia-Romagna,Bronze,2022-04-06
+AC00229,Pizzeria 4T8BP6 SAS,10000000229,Ristorante,Torino,BO,Toscana,Gold,2024-06-12
+AC00230,Altro NLNQBU SAS,10000000230,Hotel,Piacenza,MO,Toscana,Silver,2024-01-26
+AC00231,Pescheria 4KZREZ SPA,10000000231,Ristorante,Parma,CO,Emilia-Romagna,Bronze,2025-01-14
+AC00232,Panificio RDYXYU Cooperativa,10000000232,Ristorante,Asti,VA,Piemonte,Silver,2023-02-19
+AC00233,Pescheria R4SOR8 SAS,10000000233,Catering,Reggio Emilia,PV,Emilia-Romagna,Bronze,2023-01-29
+AC00234,Altro WM9LBB SAS,10000000234,Pescheria,Massa,PO,Valle d'Aosta,Silver,2023-11-27
+AC00235,Altro 4M0A6M SPA,10000000235,Bar,Genova,FI,Lombardia,Gold,2024-04-23
+AC00236,Ristorante DMMMXI SAS,10000000236,Pizzeria,Como,LI,Liguria,Gold,2023-08-27
+AC00237,Bar XV6CKM SAS,10000000237,Pizzeria,Aosta,CO,Valle d'Aosta,Silver,2023-08-05
+AC00238,Altro ALQ5U6 SPA,10000000238,Bar,Siena,MB,Lombardia,Platinum,2022-05-13
+AC00239,Macelleria JZV9NO SAS,10000000239,Pizzeria,Livorno,CO,Liguria,Silver,2024-03-01
+AC00240,Ristorante U3DYMS SRL,10000000240,Bar,Siena,LU,Liguria,Gold,2023-10-11
+AC00241,Hotel 1MWNPR SPA,10000000241,Ristorante,Varese,VA,Liguria,Silver,2025-08-30
+AC00242,Ristorante 424TKB Cooperativa,10000000242,Pizzeria,Sestri Levante,PC,Toscana,Gold,2022-08-09
+AC00243,Altro 9OI0D4 Cooperativa,10000000243,Ristorante,Novara,CR,Liguria,Gold,2024-09-02
+AC00244,Macelleria DMC2RH Cooperativa,10000000244,Altro,Cuneo,BS,Piemonte,Bronze,2024-12-05
+AC00245,Pescheria 2XK2PT Ditta Individuale,10000000245,Bar,Chiavari,PR,Emilia-Romagna,Platinum,2025-04-30
+AC00246,Mensa HOWQ1G SAS,10000000246,Alimentari,Reggio Emilia,GE,Piemonte,Gold,2025-11-03
+AC00247,Mensa AZ5UH8 Cooperativa,10000000247,Hotel,Viareggio,RA,Emilia-Romagna,Gold,2024-02-27
+AC00248,Catering 0Q7TW1 Ditta Individuale,10000000248,Ristorante,Siena,MB,Valle d'Aosta,Bronze,2023-11-22
+AC00249,Macelleria PUWSNF Cooperativa,10000000249,Ristorante,Bologna,MO,Valle d'Aosta,Gold,2025-09-19
+AC00250,Catering FYKPL3 Ditta Individuale,10000000250,Pizzeria,Ravenna,BG,Emilia-Romagna,Gold,2022-02-08
+AC00251,Ristorante CHO3XJ Ditta Individuale,10000000251,Gelateria,Brescia,CN,Piemonte,Bronze,2025-08-09
+AC00252,Gelateria VOEGI3 SRL,10000000252,Panificio,Monza,PC,Emilia-Romagna,Platinum,2023-11-21
+AC00253,Alimentari QUPXBF Cooperativa,10000000253,Alimentari,Siena,MO,Liguria,Bronze,2022-06-11
+AC00254,Alimentari EJ2XG4 SPA,10000000254,Gelateria,Chiavari,PV,Toscana,Bronze,2025-09-16
+AC00255,Alimentari 8RA4DV Ditta Individuale,10000000255,Pizzeria,Varese,CO,Valle d'Aosta,Silver,2025-02-01
+AC00256,Gelateria 56ONXD SAS,10000000256,Mensa,Modena,BG,Toscana,Silver,2022-06-10
+AC00257,Pizzeria 70FE07 SRL,10000000257,Alimentari,Bergamo,CO,Liguria,Silver,2024-12-13
+AC00258,Gelateria S387J5 SPA,10000000258,Pizzeria,Massa,PC,Liguria,Bronze,2024-11-23
+AC00259,Gelateria IE3LVO Cooperativa,10000000259,Gelateria,Piacenza,IM,Valle d'Aosta,Platinum,2022-08-30
+AC00260,Mensa 0IPFG8 Cooperativa,10000000260,Hotel,Varese,AT,Valle d'Aosta,Bronze,2024-08-24
+AC00261,Pizzeria PJVRN8 SAS,10000000261,Gelateria,Siena,RN,Liguria,Bronze,2024-06-08
+AC00262,Bar LPY857 SPA,10000000262,Alimentari,Lucca,SI,Lombardia,Bronze,2022-04-23
+AC00263,Ristorante NZ3A8V Cooperativa,10000000263,Ristorante,Sanremo,FI,Toscana,Silver,2024-10-10
+AC00264,Pizzeria 4X7Y2I SPA,10000000264,Ristorante,Brescia,FC,Toscana,Platinum,2022-11-14
+AC00265,Catering TL8N3E Ditta Individuale,10000000265,Hotel,Alessandria,MO,Lombardia,Silver,2022-01-23
+AC00266,Pescheria 54N6O9 Cooperativa,10000000266,Alimentari,Grosseto,SI,Piemonte,Gold,2024-04-03
+AC00267,Pescheria JD3IH6 Cooperativa,10000000267,Panificio,Arezzo,RA,Toscana,Bronze,2025-02-15
+AC00268,Macelleria 6W51OB SPA,10000000268,Ristorante,Ravenna,RE,Emilia-Romagna,Silver,2023-12-02
+AC00269,Pescheria 537QO4 SPA,10000000269,Gelateria,Chiavari,BO,Liguria,Silver,2024-10-15
+AC00270,Ristorante Z533ZS SPA,10000000270,Panificio,Parma,CR,Liguria,Silver,2025-05-20
+AC00271,Catering MV30QA SPA,10000000271,Ristorante,Sestri Levante,MS,Lombardia,Bronze,2025-12-12
+AC00272,Pescheria BXW2EO Cooperativa,10000000272,Panificio,Massa,CR,Toscana,Silver,2025-02-10
+AC00273,Hotel WLCFS8 SPA,10000000273,Altro,Forlì,PO,Piemonte,Silver,2024-12-03
+AC00274,Altro 314Y2L Cooperativa,10000000274,Mensa,Parma,AR,Toscana,Gold,2022-05-08
+AC00275,Hotel R0JY32 SAS,10000000275,Gelateria,Prato,BS,Liguria,Silver,2024-05-25
+AC00276,Ristorante HOG585 Ditta Individuale,10000000276,Altro,Chiavari,IM,Valle d'Aosta,Bronze,2022-06-07
+AC00277,Mensa I87XW6 SPA,10000000277,Pizzeria,Lucca,CO,Emilia-Romagna,Silver,2024-04-06
+AC00278,Macelleria 9HZGOP SPA,10000000278,Bar,Sestri Levante,SV,Lombardia,Bronze,2025-11-18
+AC00279,Hotel JDN8EZ Cooperativa,10000000279,Panificio,Genova,AT,Valle d'Aosta,Gold,2024-05-01
+AC00280,Alimentari P7QYEZ Cooperativa,10000000280,Pizzeria,Pisa,IM,Piemonte,Silver,2023-05-27
+AC00281,Macelleria G52KRE SPA,10000000281,Alimentari,Arezzo,MS,Valle d'Aosta,Bronze,2022-02-14
+AC00282,Panificio 4V9KYP Ditta Individuale,10000000282,Bar,Piacenza,VA,Valle d'Aosta,Platinum,2025-02-05
+AC00283,Hotel OFKJW6 SPA,10000000283,Mensa,Asti,GR,Piemonte,Silver,2022-08-07
+AC00284,Bar NYQAEL SAS,10000000284,Ristorante,Genova,AT,Valle d'Aosta,Bronze,2023-03-19
+AC00285,Pescheria YYZZ0J SRL,10000000285,Macelleria,Bologna,PC,Lombardia,Silver,2022-11-11
+AC00286,Catering DCLI69 SPA,10000000286,Bar,Viareggio,PV,Liguria,Bronze,2022-06-26
+AC00287,Mensa 78V0BJ SPA,10000000287,Ristorante,Pisa,LU,Toscana,Gold,2022-08-16
+AC00288,Bar WKON8U Ditta Individuale,10000000288,Catering,Cremona,MO,Valle d'Aosta,Gold,2022-09-24
+AC00289,Alimentari UJS75E SPA,10000000289,Ristorante,Torino,CR,Lombardia,Platinum,2024-05-19
+AC00290,Alimentari LTFEBE SPA,10000000290,Pizzeria,Monza,BO,Toscana,Silver,2024-04-17
+AC00291,Alimentari 5407K5 Ditta Individuale,10000000291,Macelleria,Bergamo,SV,Toscana,Silver,2025-11-03
+AC00292,Bar W1JL6L Ditta Individuale,10000000292,Panificio,Como,RA,Valle d'Aosta,Gold,2023-05-04
+AC00293,Pizzeria 91F4X2 SRL,10000000293,Ristorante,Milano,IM,Lombardia,Bronze,2023-12-03
+AC00294,Macelleria BFIBJZ Ditta Individuale,10000000294,Ristorante,Livorno,PI,Liguria,Silver,2023-11-18
+AC00295,Pizzeria P97BMZ SRL,10000000295,Gelateria,Brescia,RE,Valle d'Aosta,Silver,2025-08-06
+AC00296,Pescheria RR45ED SPA,10000000296,Macelleria,Rimini,TO,Piemonte,Bronze,2024-09-22
+AC00297,Bar 5GGSJ6 SPA,10000000297,Catering,Pavia,AL,Toscana,Silver,2022-12-23
+AC00298,Mensa VV8SUO SAS,10000000298,Alimentari,Prato,AT,Valle d'Aosta,Gold,2024-05-21
+AC00299,Gelateria C1Y5AY SPA,10000000299,Bar,Bergamo,LU,Toscana,Gold,2022-07-23
+AC00300,Alimentari YOV84F Ditta Individuale,10000000300,Macelleria,Novara,AL,Lombardia,Bronze,2025-05-21
+AC00301,Alimentari C3XQ8V SRL,10000000301,Pizzeria,Reggio Emilia,CR,Emilia-Romagna,Bronze,2023-07-06
+AC00302,Pescheria A8X8L0 SRL,10000000302,Bar,Asti,NO,Valle d'Aosta,Bronze,2022-11-19
+AC00303,Panificio 08UHBX SAS,10000000303,Bar,Modena,GE,Liguria,Gold,2023-08-17
+AC00304,Pizzeria LBC8NO SPA,10000000304,Macelleria,Brescia,FI,Valle d'Aosta,Bronze,2022-06-30
+AC00305,Ristorante G85D4F Ditta Individuale,10000000305,Ristorante,Alessandria,PC,Toscana,Gold,2023-05-14
+AC00306,Ristorante 2K1XER Ditta Individuale,10000000306,Bar,Pavia,MS,Lombardia,Bronze,2025-09-05
+AC00307,Pizzeria P3LYEX SAS,10000000307,Alimentari,Alessandria,PV,Piemonte,Silver,2022-03-24
+AC00308,Ristorante 3SR5RU Cooperativa,10000000308,Ristorante,Varese,AT,Liguria,Silver,2022-10-30
+AC00309,Bar P13WPP Ditta Individuale,10000000309,Ristorante,Bologna,MI,Lombardia,Gold,2022-09-19
+AC00310,Bar BMQIYF SRL,10000000310,Gelateria,Brescia,RA,Valle d'Aosta,Bronze,2024-02-23
+AC00311,Mensa RWSKP6 SPA,10000000311,Macelleria,Forlì,LU,Piemonte,Silver,2025-05-08
+AC00312,Pescheria RFE64S Ditta Individuale,10000000312,Gelateria,Genova,PI,Lombardia,Bronze,2025-06-17
+AC00313,Gelateria KBCBDP Ditta Individuale,10000000313,Macelleria,Firenze,AL,Emilia-Romagna,Gold,2024-07-02
+AC00314,Pizzeria DXUJJC SPA,10000000314,Alimentari,Ravenna,PO,Liguria,Gold,2023-11-23
+AC00315,Altro SEXGGO SAS,10000000315,Gelateria,Carrara,SP,Toscana,Bronze,2024-08-01
+AC00316,Bar C5KVQY Cooperativa,10000000316,Hotel,Lucca,RA,Lombardia,Gold,2023-11-14
+AC00317,Ristorante WJ85GG SAS,10000000317,Pizzeria,Reggio Emilia,FI,Lombardia,Silver,2025-08-11
+AC00318,Catering 0V5DTA SAS,10000000318,Altro,Aosta,SV,Emilia-Romagna,Bronze,2023-11-20
+AC00319,Pescheria EGRY58 Ditta Individuale,10000000319,Bar,Milano,BO,Valle d'Aosta,Silver,2023-01-31
+AC00320,Gelateria VRW9MY SPA,10000000320,Hotel,Asti,RN,Liguria,Bronze,2025-03-07
+AC00321,Pizzeria YOKEAE Ditta Individuale,10000000321,Alimentari,Reggio Emilia,AT,Liguria,Gold,2024-04-18
+AC00322,Gelateria A84HXX Cooperativa,10000000322,Ristorante,Viareggio,PI,Toscana,Gold,2024-05-27
+AC00323,Gelateria PW2GKQ SAS,10000000323,Ristorante,Imperia,MB,Lombardia,Bronze,2024-04-02
+AC00324,Ristorante RAFFZ8 Ditta Individuale,10000000324,Gelateria,Imperia,FI,Piemonte,Silver,2025-02-26
+AC00325,Catering Q4VHU4 SPA,10000000325,Altro,Lucca,SV,Lombardia,Gold,2022-02-18
+AC00326,Mensa BAWZ94 Cooperativa,10000000326,Hotel,Sestri Levante,BS,Toscana,Platinum,2024-02-28
+AC00327,Pescheria 0VTKRR SPA,10000000327,Ristorante,Forlì,RA,Lombardia,Silver,2022-10-20
+AC00328,Alimentari VWY3RZ SRL,10000000328,Ristorante,Massa,RA,Emilia-Romagna,Platinum,2023-06-20
+AC00329,Hotel TPLC6P SPA,10000000329,Macelleria,Viareggio,PC,Lombardia,Silver,2022-11-07
+AC00330,Catering RR7MZA Cooperativa,10000000330,Catering,Cuneo,FI,Lombardia,Silver,2023-06-21
+AC00331,Macelleria KGMIH6 SRL,10000000331,Bar,Cuneo,NO,Piemonte,Gold,2023-10-01
+AC00332,Mensa MV4XEK SRL,10000000332,Catering,Parma,CR,Emilia-Romagna,Silver,2022-08-22
+AC00333,Gelateria Z83Y02 Cooperativa,10000000333,Bar,Alessandria,PR,Emilia-Romagna,Silver,2025-05-17
+AC00334,Catering 24WK0Y Ditta Individuale,10000000334,Alimentari,Cuneo,SI,Lombardia,Silver,2023-08-28
+AC00335,Mensa EHVDO9 Cooperativa,10000000335,Panificio,Ravenna,AO,Liguria,Gold,2022-04-04
+AC00336,Mensa KHBA5M Ditta Individuale,10000000336,Alimentari,Bergamo,PI,Piemonte,Gold,2022-11-23
+AC00337,Ristorante F36BCP SRL,10000000337,Pizzeria,Cuneo,MI,Lombardia,Silver,2022-08-13
+AC00338,Macelleria WEIJMM Cooperativa,10000000338,Hotel,Asti,BO,Lombardia,Bronze,2024-08-24
+AC00339,Hotel B5JFYS SPA,10000000339,Mensa,Sanremo,MO,Toscana,Silver,2024-06-08
+AC00340,Bar YZ7PQ4 SAS,10000000340,Pizzeria,Arezzo,PI,Toscana,Silver,2022-01-11
+AC00341,Mensa DDV283 Ditta Individuale,10000000341,Ristorante,Sestri Levante,AO,Liguria,Bronze,2025-09-14
+AC00342,Macelleria BDW56F SAS,10000000342,Alimentari,Modena,BS,Piemonte,Gold,2024-11-01
+AC00343,Pescheria KPS0DX Ditta Individuale,10000000343,Bar,Milano,RN,Valle d'Aosta,Silver,2022-02-04
+AC00344,Bar ME4PO1 SAS,10000000344,Gelateria,Milano,SI,Toscana,Bronze,2023-03-23
+AC00345,Catering I3MSDN Cooperativa,10000000345,Catering,Monza,GR,Valle d'Aosta,Bronze,2025-05-28
+AC00346,Catering 1MXF1P SPA,10000000346,Altro,Sanremo,AO,Emilia-Romagna,Bronze,2023-03-17
+AC00347,Alimentari I2OOQ4 SRL,10000000347,Ristorante,Pavia,CO,Toscana,Platinum,2023-10-15
+AC00348,Gelateria 2NBFA3 Ditta Individuale,10000000348,Gelateria,Arezzo,BG,Toscana,Bronze,2023-08-18
+AC00349,Gelateria 7DL9FC SPA,10000000349,Pizzeria,Cuneo,GE,Piemonte,Bronze,2022-08-17
+AC00350,Gelateria 1XX6CW Cooperativa,10000000350,Mensa,Viareggio,TO,Liguria,Silver,2022-12-10
+AC00351,Gelateria ZXSKOY Ditta Individuale,10000000351,Bar,Prato,BO,Valle d'Aosta,Bronze,2025-01-08
+AC00352,Macelleria TK06AK Ditta Individuale,10000000352,Alimentari,Arezzo,RA,Toscana,Bronze,2025-10-08
+AC00353,Ristorante T7ZQHT Ditta Individuale,10000000353,Gelateria,Massa,CR,Toscana,Bronze,2025-11-20
+AC00354,Catering 2XZ52O Cooperativa,10000000354,Bar,Brescia,PO,Piemonte,Silver,2025-08-06
+AC00355,Macelleria HKBM00 Ditta Individuale,10000000355,Bar,Prato,CO,Piemonte,Silver,2024-09-15
+AC00356,Bar E9KDTS SAS,10000000356,Alimentari,Imperia,FC,Liguria,Silver,2025-02-25
+AC00357,Mensa 1FB2VI SPA,10000000357,Alimentari,Chiavari,PI,Valle d'Aosta,Silver,2024-06-27
+AC00358,Altro 109DCN Cooperativa,10000000358,Bar,Bologna,CR,Emilia-Romagna,Platinum,2025-10-14
+AC00359,Pizzeria WMBXEK SAS,10000000359,Bar,Viareggio,NO,Liguria,Silver,2023-06-11
+AC00360,Gelateria 0Q929U SPA,10000000360,Bar,Bergamo,LU,Emilia-Romagna,Bronze,2025-08-29
+AC00361,Altro 6WTVMK Ditta Individuale,10000000361,Gelateria,Alessandria,TO,Lombardia,Bronze,2022-03-16
+AC00362,Mensa 2ZYZSI SRL,10000000362,Pizzeria,Savona,NO,Toscana,Silver,2022-07-15
+AC00363,Ristorante LU3NDZ SAS,10000000363,Panificio,Lucca,AR,Valle d'Aosta,Gold,2022-01-29
+AC00364,Panificio 3CC5RQ SAS,10000000364,Altro,Carrara,RE,Liguria,Bronze,2023-12-07
+AC00365,Alimentari NSVSOJ SAS,10000000365,Catering,Viareggio,FI,Toscana,Gold,2024-10-17
+AC00366,Panificio RPP7R9 Cooperativa,10000000366,Ristorante,Chiavari,RA,Valle d'Aosta,Bronze,2022-01-16
+AC00367,Panificio 3FEZEZ SAS,10000000367,Ristorante,Monza,IM,Valle d'Aosta,Silver,2025-12-17
+AC00368,Hotel 5EHR07 Ditta Individuale,10000000368,Bar,Prato,RN,Valle d'Aosta,Gold,2024-03-15
+AC00369,Gelateria N8VOEU SRL,10000000369,Pescheria,Como,PR,Toscana,Bronze,2025-11-29
+AC00370,Macelleria BFN9KR Cooperativa,10000000370,Alimentari,Cremona,FI,Liguria,Silver,2024-07-28
+AC00371,Ristorante 2FVB66 SRL,10000000371,Bar,Livorno,MI,Piemonte,Bronze,2024-08-24
+AC00372,Gelateria H3REM5 Ditta Individuale,10000000372,Hotel,Reggio Emilia,RN,Toscana,Gold,2025-01-05
+AC00373,Macelleria PUU62R SPA,10000000373,Alimentari,Carrara,GR,Valle d'Aosta,Bronze,2022-08-17
+AC00374,Alimentari ZV1SQQ SAS,10000000374,Pizzeria,Varese,MI,Liguria,Gold,2024-08-19
+AC00375,Panificio Q5L2XO Ditta Individuale,10000000375,Ristorante,Lucca,MS,Lombardia,Bronze,2025-08-13
+AC00376,Altro IOT860 SPA,10000000376,Altro,Varese,MS,Emilia-Romagna,Gold,2023-12-16
+AC00377,Altro X5ZU2Z SRL,10000000377,Alimentari,Savona,PI,Valle d'Aosta,Silver,2024-09-10
+AC00378,Hotel UEUGWU SAS,10000000378,Ristorante,Novara,LI,Lombardia,Gold,2023-07-27
+AC00379,Mensa BUGR6E Ditta Individuale,10000000379,Macelleria,Cremona,BO,Piemonte,Bronze,2023-09-07
+AC00380,Pescheria 7GA2IZ SRL,10000000380,Ristorante,Torino,TO,Valle d'Aosta,Gold,2022-11-22
+AC00381,Gelateria 5P3VOB Cooperativa,10000000381,Macelleria,Arezzo,IM,Lombardia,Bronze,2025-10-18
+AC00382,Ristorante 5APO4L SRL,10000000382,Altro,Monza,BS,Valle d'Aosta,Bronze,2024-05-24
+AC00383,Alimentari JEDGFJ SPA,10000000383,Pizzeria,Parma,PV,Toscana,Silver,2022-12-25
+AC00384,Panificio DLOGWL Ditta Individuale,10000000384,Gelateria,Lucca,MO,Liguria,Bronze,2022-11-20
+AC00385,Macelleria ACOLOL Ditta Individuale,10000000385,Bar,Torino,AO,Lombardia,Bronze,2025-09-11
+AC00386,Altro N3EH1V SRL,10000000386,Pescheria,Chiavari,AO,Liguria,Platinum,2022-06-14
+AC00387,Pescheria R1NECQ Ditta Individuale,10000000387,Alimentari,Aosta,MI,Toscana,Platinum,2024-03-08
+AC00388,Alimentari OROI5J SPA,10000000388,Mensa,Aosta,PO,Toscana,Silver,2023-03-31
+AC00389,Altro 8YIT2K SPA,10000000389,Macelleria,Como,AL,Liguria,Platinum,2025-03-22
+AC00390,Pizzeria ODWH8N SAS,10000000390,Altro,Varese,MO,Lombardia,Silver,2025-02-24
+AC00391,Pizzeria 92TP6Q Cooperativa,10000000391,Panificio,Carrara,FI,Liguria,Bronze,2022-07-12
+AC00392,Pizzeria AQ3K8A SRL,10000000392,Bar,Modena,TO,Liguria,Gold,2023-09-19
+AC00393,Pizzeria 7RV4NM SPA,10000000393,Altro,Rimini,AR,Emilia-Romagna,Silver,2023-06-14
+AC00394,Macelleria WVSB0U SPA,10000000394,Pizzeria,Aosta,AT,Lombardia,Platinum,2024-10-30
+AC00395,Pescheria KOEFUK Ditta Individuale,10000000395,Pescheria,Savona,NO,Emilia-Romagna,Bronze,2022-04-02
+AC00396,Ristorante PV8LYM SPA,10000000396,Pizzeria,Rimini,RE,Valle d'Aosta,Silver,2022-05-19
+AC00397,Alimentari J1QI9M Ditta Individuale,10000000397,Bar,Ravenna,CR,Liguria,Bronze,2023-04-26
+AC00398,Panificio QVAYXA SRL,10000000398,Hotel,Livorno,FI,Valle d'Aosta,Bronze,2023-03-25
+AC00399,Alimentari R6YO6Z SAS,10000000399,Alimentari,Livorno,MS,Lombardia,Bronze,2025-09-18
+AC00400,Catering 1T2XCB Ditta Individuale,10000000400,Gelateria,Livorno,SP,Liguria,Platinum,2024-05-18
+AC00401,Macelleria 3YYM33 SAS,10000000401,Bar,Arezzo,PR,Valle d'Aosta,Gold,2022-12-06
+AC00402,Ristorante MG1ZAQ Ditta Individuale,10000000402,Alimentari,Prato,AT,Piemonte,Gold,2024-12-11
+AC00403,Catering 7QHAK7 Cooperativa,10000000403,Hotel,Bologna,GR,Toscana,Silver,2023-04-11
+AC00404,Ristorante MDWKZI Ditta Individuale,10000000404,Gelateria,Firenze,MS,Liguria,Bronze,2023-12-19
+AC00405,Ristorante RNK6ZH SRL,10000000405,Catering,Massa,LI,Toscana,Bronze,2024-03-09
+AC00406,Ristorante H3O5UR SAS,10000000406,Ristorante,Brescia,TO,Emilia-Romagna,Bronze,2023-04-20
+AC00407,Gelateria TXUYUC SAS,10000000407,Ristorante,Pavia,PO,Valle d'Aosta,Silver,2023-02-05
+AC00408,Pescheria ECJUIS Cooperativa,10000000408,Ristorante,Firenze,AO,Emilia-Romagna,Gold,2023-08-28
+AC00409,Mensa 2GY9YT SPA,10000000409,Alimentari,Pavia,RN,Liguria,Silver,2024-07-20
+AC00410,Macelleria JUQ7X7 SPA,10000000410,Ristorante,Sestri Levante,NO,Toscana,Bronze,2024-09-23
+AC00411,Mensa B7P9JY Cooperativa,10000000411,Ristorante,Novara,FI,Toscana,Bronze,2024-07-10
+AC00412,Ristorante QN15IK Ditta Individuale,10000000412,Pescheria,Novara,MI,Valle d'Aosta,Bronze,2024-03-31
+AC00413,Panificio PQAHCU Cooperativa,10000000413,Panificio,Massa,MS,Liguria,Silver,2023-10-19
+AC00414,Mensa A09PCI SAS,10000000414,Catering,Alessandria,GE,Piemonte,Platinum,2023-08-21
+AC00415,Pizzeria FLWDR3 SAS,10000000415,Altro,Milano,SI,Piemonte,Silver,2025-03-22
+AC00416,Ristorante VWMJDI Cooperativa,10000000416,Ristorante,Firenze,RA,Valle d'Aosta,Gold,2023-05-29
+AC00417,Bar MBM271 Cooperativa,10000000417,Pizzeria,Piacenza,CN,Liguria,Silver,2024-10-26
+AC00418,Bar W1WUDC Cooperativa,10000000418,Pizzeria,Ravenna,FC,Valle d'Aosta,Silver,2023-05-15
+AC00419,Pescheria BL4CE7 Cooperativa,10000000419,Catering,Parma,PC,Liguria,Bronze,2023-12-18
+AC00420,Alimentari PKWCYU SRL,10000000420,Hotel,Varese,GR,Emilia-Romagna,Gold,2025-02-15
+AC00421,Gelateria KND1IV SPA,10000000421,Catering,Arezzo,RA,Valle d'Aosta,Gold,2023-08-24
+AC00422,Catering XAN25W SRL,10000000422,Hotel,Forlì,CR,Liguria,Bronze,2023-10-28
+AC00423,Catering M72QLG SAS,10000000423,Mensa,Sestri Levante,MB,Piemonte,Silver,2023-04-13
+AC00424,Altro DVC2GU Cooperativa,10000000424,Ristorante,Sanremo,TO,Liguria,Silver,2022-06-10
+AC00425,Mensa WJP0QI Ditta Individuale,10000000425,Bar,Massa,PR,Liguria,Silver,2022-09-27
+AC00426,Ristorante 2CLP81 SRL,10000000426,Bar,Sanremo,TO,Valle d'Aosta,Platinum,2024-12-15
+AC00427,Catering L51FLM SRL,10000000427,Bar,Carrara,BS,Emilia-Romagna,Silver,2022-08-16
+AC00428,Pizzeria NAVYCS SRL,10000000428,Alimentari,Torino,CR,Emilia-Romagna,Silver,2024-04-28
+AC00429,Altro 44PHH6 SPA,10000000429,Ristorante,Lucca,SV,Emilia-Romagna,Bronze,2022-05-29
+AC00430,Pescheria 2MYZ9V SAS,10000000430,Panificio,Cuneo,PC,Emilia-Romagna,Bronze,2024-12-05
+AC00431,Panificio LU8WPF Ditta Individuale,10000000431,Bar,Massa,AR,Lombardia,Bronze,2025-03-13
+AC00432,Ristorante Q2BHAI Cooperativa,10000000432,Ristorante,Forlì,AR,Valle d'Aosta,Bronze,2023-09-24
+AC00433,Panificio IWI08L SRL,10000000433,Pizzeria,Monza,MS,Toscana,Gold,2025-09-25
+AC00434,Gelateria 0HG9NC SPA,10000000434,Ristorante,Arezzo,PC,Valle d'Aosta,Gold,2023-02-17
+AC00435,Altro BEKGV1 SRL,10000000435,Pizzeria,Novara,RA,Lombardia,Bronze,2023-06-04
+AC00436,Pescheria BBHG5Z SAS,10000000436,Pizzeria,Asti,NO,Emilia-Romagna,Gold,2025-09-29
+AC00437,Hotel MTGA46 SPA,10000000437,Bar,Brescia,PI,Lombardia,Bronze,2023-01-22
+AC00438,Mensa AYN2D7 SPA,10000000438,Ristorante,Massa,AO,Piemonte,Bronze,2022-10-02
+AC00439,Ristorante KI3X79 SRL,10000000439,Hotel,Brescia,FC,Piemonte,Bronze,2022-12-19
+AC00440,Macelleria 955CF7 Cooperativa,10000000440,Ristorante,Modena,TO,Valle d'Aosta,Silver,2024-12-25
+AC00441,Alimentari 2GNNV9 Cooperativa,10000000441,Ristorante,Parma,NO,Valle d'Aosta,Bronze,2025-01-07
+AC00442,Gelateria IBWGT2 SAS,10000000442,Bar,Livorno,LU,Toscana,Silver,2023-08-21
+AC00443,Pizzeria LB2548 Cooperativa,10000000443,Bar,Pavia,LU,Toscana,Silver,2025-05-10
+AC00444,Hotel 5HCQXC SRL,10000000444,Alimentari,Novara,SP,Piemonte,Platinum,2023-07-12
+AC00445,Ristorante S1XSRQ SPA,10000000445,Pizzeria,Prato,MB,Emilia-Romagna,Bronze,2022-04-23
+AC00446,Hotel LNZZRJ SPA,10000000446,Alimentari,Cremona,MB,Lombardia,Bronze,2025-01-19
+AC00447,Gelateria O7VBHH SRL,10000000447,Ristorante,Pisa,FI,Toscana,Bronze,2022-05-21
+AC00448,Alimentari 5OL5U7 SPA,10000000448,Ristorante,Viareggio,CO,Liguria,Silver,2025-08-05
+AC00449,Bar NTEDQM SPA,10000000449,Panificio,Rimini,TO,Toscana,Bronze,2023-12-31
+AC00450,Mensa VQWPQO Ditta Individuale,10000000450,Alimentari,La Spezia,AR,Emilia-Romagna,Gold,2023-08-12
+AC00451,Pescheria 2LNGIX SRL,10000000451,Panificio,Parma,AR,Emilia-Romagna,Silver,2023-02-15
+AC00452,Pizzeria MC4SX2 SPA,10000000452,Hotel,Como,CR,Valle d'Aosta,Silver,2023-01-12
+AC00453,Gelateria 7DCBHH Ditta Individuale,10000000453,Pizzeria,Sestri Levante,VA,Lombardia,Silver,2025-11-08
+AC00454,Bar LK3YJZ Cooperativa,10000000454,Alimentari,Alessandria,AO,Emilia-Romagna,Bronze,2025-03-21
+AC00455,Hotel 99106A Ditta Individuale,10000000455,Bar,Bologna,CR,Toscana,Bronze,2024-01-21
+AC00456,Catering K32OOU SAS,10000000456,Catering,Bergamo,RN,Toscana,Bronze,2023-09-19
+AC00457,Ristorante XQS1FO SPA,10000000457,Alimentari,Pavia,NO,Piemonte,Silver,2025-09-04
+AC00458,Catering I0RS21 SAS,10000000458,Bar,Sestri Levante,CO,Emilia-Romagna,Bronze,2025-10-24
+AC00459,Catering 0Q2LG1 SAS,10000000459,Bar,Brescia,AO,Liguria,Bronze,2024-09-21
+AC00460,Ristorante ZHQUNU SRL,10000000460,Gelateria,Siena,CN,Valle d'Aosta,Platinum,2023-12-04
+AC00461,Catering E7A34M Ditta Individuale,10000000461,Macelleria,Livorno,PI,Lombardia,Bronze,2023-04-07
+AC00462,Hotel PYO2TL SAS,10000000462,Hotel,Reggio Emilia,AL,Liguria,Gold,2022-01-12
+AC00463,Altro A27F8L SPA,10000000463,Bar,Monza,LU,Valle d'Aosta,Gold,2025-03-25
+AC00464,Gelateria WVV59H SPA,10000000464,Bar,Prato,AT,Toscana,Bronze,2023-04-22
+AC00465,Altro OTGDUQ SRL,10000000465,Pizzeria,Livorno,LI,Liguria,Bronze,2024-07-27
+AC00466,Macelleria 6DDTBY SAS,10000000466,Bar,Genova,VA,Valle d'Aosta,Bronze,2023-02-05
+AC00467,Gelateria RGC8KI SRL,10000000467,Altro,Como,AL,Toscana,Silver,2024-03-18
+AC00468,Altro XCCSG4 SAS,10000000468,Bar,Prato,BS,Toscana,Silver,2022-06-26
+AC00469,Catering OFDTRC Ditta Individuale,10000000469,Hotel,Arezzo,TO,Toscana,Gold,2025-09-26
+AC00470,Pescheria 85EHPZ SRL,10000000470,Pizzeria,Pavia,MS,Toscana,Platinum,2022-02-26
+AC00471,Gelateria RV7VSY Ditta Individuale,10000000471,Gelateria,Imperia,SV,Toscana,Silver,2023-03-24
+AC00472,Gelateria JAFCO3 Cooperativa,10000000472,Catering,Monza,MI,Piemonte,Bronze,2022-07-22
+AC00473,Panificio S65QU0 SAS,10000000473,Catering,Massa,MO,Liguria,Bronze,2024-01-08
+AC00474,Hotel K5QZZK SAS,10000000474,Altro,Lucca,SI,Valle d'Aosta,Gold,2022-07-21
+AC00475,Gelateria W3GI60 SAS,10000000475,Ristorante,Bologna,PI,Piemonte,Bronze,2025-09-15
+AC00476,Panificio Q6GUO8 SAS,10000000476,Macelleria,Viareggio,MI,Piemonte,Bronze,2022-12-29
+AC00477,Catering I5JWK6 SAS,10000000477,Ristorante,Forlì,MO,Emilia-Romagna,Gold,2024-06-10
+AC00478,Hotel Z0HR9T SPA,10000000478,Gelateria,Chiavari,MO,Emilia-Romagna,Silver,2023-03-30
+AC00479,Gelateria 9CD1LQ Cooperativa,10000000479,Pizzeria,Cuneo,FC,Emilia-Romagna,Platinum,2022-12-22
+AC00480,Hotel JSQCZ0 SAS,10000000480,Hotel,Livorno,CO,Lombardia,Silver,2022-08-04
+AC00481,Pescheria N04OAE SRL,10000000481,Panificio,Asti,PV,Emilia-Romagna,Bronze,2024-08-29
+AC00482,Hotel 7L0RCT Ditta Individuale,10000000482,Ristorante,Siena,GE,Valle d'Aosta,Platinum,2023-07-09
+AC00483,Panificio I8F34G Cooperativa,10000000483,Bar,Arezzo,RN,Piemonte,Bronze,2024-06-05
+AC00484,Altro ADKTOC SAS,10000000484,Alimentari,Reggio Emilia,LI,Valle d'Aosta,Bronze,2022-01-23
+AC00485,Bar 1YFMHB SAS,10000000485,Hotel,Pavia,CO,Liguria,Silver,2022-06-04
+AC00486,Catering YHZ43X Ditta Individuale,10000000486,Pizzeria,Cremona,LU,Emilia-Romagna,Bronze,2025-04-24
+AC00487,Mensa Z6OLBA Ditta Individuale,10000000487,Ristorante,Prato,CO,Lombardia,Silver,2022-09-06
+AC00488,Mensa 117NID SRL,10000000488,Ristorante,Parma,PR,Liguria,Bronze,2024-01-19
+AC00489,Pizzeria P9MGYH SRL,10000000489,Ristorante,Carrara,CN,Lombardia,Silver,2024-03-15
+AC00490,Bar 523GGO SPA,10000000490,Bar,Pavia,MI,Liguria,Silver,2022-05-14
+AC00491,Macelleria DLUGHT Cooperativa,10000000491,Catering,Pavia,AR,Piemonte,Gold,2022-11-17
+AC00492,Panificio 7EHMGO Ditta Individuale,10000000492,Mensa,Alessandria,AL,Valle d'Aosta,Gold,2023-01-25
+AC00493,Ristorante LOQC3X Ditta Individuale,10000000493,Macelleria,Cremona,IM,Toscana,Bronze,2023-03-10
+AC00494,Pizzeria NCHKV9 Cooperativa,10000000494,Panificio,Varese,PI,Valle d'Aosta,Silver,2024-11-11
+AC00495,Ristorante DT94G8 Ditta Individuale,10000000495,Bar,Modena,LI,Emilia-Romagna,Silver,2024-05-22
+AC00496,Pizzeria V9ZY9Y Cooperativa,10000000496,Catering,Pisa,IM,Toscana,Bronze,2025-02-22
+AC00497,Macelleria LW5L4R SAS,10000000497,Bar,Varese,PO,Lombardia,Gold,2025-01-07
+AC00498,Catering MVVNXI SRL,10000000498,Bar,Piacenza,MO,Piemonte,Gold,2024-05-07
+AC00499,Alimentari V9IW6L SRL,10000000499,Alimentari,Pavia,AR,Piemonte,Bronze,2022-02-20
+AC00500,Macelleria 01WCNK Cooperativa,10000000500,Ristorante,Ravenna,BG,Lombardia,Silver,2022-06-25
+AC00501,Pizzeria FHB7V8 SRL,10000000501,Bar,Grosseto,GE,Emilia-Romagna,Bronze,2024-05-19
+AC00502,Pescheria 0LKX1S Ditta Individuale,10000000502,Pescheria,Lucca,BS,Lombardia,Silver,2022-09-10
+AC00503,Mensa 9XKA4L Ditta Individuale,10000000503,Catering,Forlì,FC,Liguria,Bronze,2024-08-23
+AC00504,Pescheria IT6XIY SAS,10000000504,Catering,Brescia,CO,Emilia-Romagna,Platinum,2025-06-23
+AC00505,Alimentari ZVNLPA Ditta Individuale,10000000505,Ristorante,Brescia,RN,Toscana,Gold,2024-01-09
+AC00506,Hotel 5CGWFH SPA,10000000506,Bar,Cuneo,NO,Lombardia,Silver,2025-02-03
+AC00507,Gelateria DV37IC SAS,10000000507,Panificio,Arezzo,CR,Emilia-Romagna,Silver,2025-05-01
+AC00508,Macelleria 0LZIGI SRL,10000000508,Ristorante,Novara,VA,Toscana,Gold,2025-09-01
+AC00509,Catering KQWJ2C SRL,10000000509,Hotel,Viareggio,RE,Lombardia,Silver,2022-10-29
+AC00510,Gelateria 9OGPS0 SPA,10000000510,Ristorante,Viareggio,RN,Piemonte,Bronze,2023-07-02
+AC00511,Alimentari 132AN4 SAS,10000000511,Catering,Varese,MI,Lombardia,Silver,2023-12-17
+AC00512,Alimentari 17VF0J Cooperativa,10000000512,Ristorante,Brescia,CO,Valle d'Aosta,Gold,2024-02-18
+AC00513,Gelateria QQNVCE SPA,10000000513,Gelateria,Milano,AT,Lombardia,Silver,2022-09-25
+AC00514,Pizzeria QFGAS0 Cooperativa,10000000514,Gelateria,Siena,BG,Valle d'Aosta,Silver,2025-04-08
+AC00515,Alimentari R778NR SRL,10000000515,Gelateria,Savona,PO,Toscana,Gold,2024-10-06
+AC00516,Pescheria XVOB7N SAS,10000000516,Bar,Grosseto,AL,Lombardia,Gold,2023-07-05
+AC00517,Ristorante UGPJ60 Ditta Individuale,10000000517,Panificio,Lucca,IM,Toscana,Gold,2025-08-08
+AC00518,Hotel SRYZX7 SPA,10000000518,Alimentari,Carrara,GE,Toscana,Bronze,2025-03-10
+AC00519,Altro 0IB3WY Ditta Individuale,10000000519,Hotel,La Spezia,SP,Emilia-Romagna,Silver,2025-03-15
+AC00520,Altro ZXJQYJ SAS,10000000520,Pizzeria,Parma,CO,Toscana,Gold,2025-12-19
+AC00521,Pescheria V84A1X Cooperativa,10000000521,Ristorante,Livorno,GR,Toscana,Gold,2022-11-10
+AC00522,Pizzeria 7OV6SG Ditta Individuale,10000000522,Ristorante,Milano,SP,Lombardia,Silver,2022-07-03
+AC00523,Macelleria P3JK8X SRL,10000000523,Mensa,Como,RE,Lombardia,Bronze,2023-12-14
+AC00524,Mensa NLO50D SAS,10000000524,Bar,Pavia,VA,Piemonte,Gold,2022-05-08
+AC00525,Alimentari W1MF07 SAS,10000000525,Alimentari,Parma,MS,Emilia-Romagna,Gold,2025-08-03
+AC00526,Mensa OL93AC Ditta Individuale,10000000526,Hotel,Siena,CO,Toscana,Bronze,2025-06-30
+AC00527,Panificio ZSX0GN Ditta Individuale,10000000527,Panificio,Massa,CR,Emilia-Romagna,Silver,2023-12-01
+AC00528,Ristorante ZHG8Q3 Cooperativa,10000000528,Pescheria,Parma,BG,Valle d'Aosta,Bronze,2023-01-21
+AC00529,Ristorante GCG1J6 SRL,10000000529,Panificio,Firenze,PI,Toscana,Bronze,2025-06-07
+AC00530,Panificio OWW5FK SAS,10000000530,Bar,Forlì,CR,Emilia-Romagna,Bronze,2022-09-28
+AC00531,Pizzeria NJMVRY SAS,10000000531,Bar,Forlì,PR,Piemonte,Silver,2024-03-21
+AC00532,Alimentari DC1AU9 SRL,10000000532,Catering,Pisa,CN,Piemonte,Silver,2023-02-19
+AC00533,Pizzeria DSAV91 SPA,10000000533,Ristorante,Sanremo,SV,Toscana,Silver,2022-07-17
+AC00534,Gelateria 7RMPN6 SRL,10000000534,Ristorante,Brescia,AL,Valle d'Aosta,Silver,2025-09-08
+AC00535,Ristorante 937XNC SAS,10000000535,Alimentari,Cuneo,AL,Piemonte,Gold,2024-12-15
+AC00536,Ristorante MLDQZ0 SRL,10000000536,Alimentari,Alessandria,BS,Piemonte,Bronze,2024-04-10
+AC00537,Pizzeria 5EV5KZ SPA,10000000537,Altro,Pisa,VA,Valle d'Aosta,Bronze,2025-05-11
+AC00538,Gelateria 3NWXRO Cooperativa,10000000538,Bar,Firenze,PR,Emilia-Romagna,Gold,2023-09-20
+AC00539,Pizzeria G983AM Cooperativa,10000000539,Bar,Cuneo,CN,Piemonte,Bronze,2023-08-27
+AC00540,Pescheria B3LPVO Cooperativa,10000000540,Ristorante,Ravenna,FC,Lombardia,Platinum,2025-03-07
+AC00541,Ristorante WCP779 Cooperativa,10000000541,Macelleria,Alessandria,SV,Liguria,Gold,2025-12-16
+AC00542,Gelateria 460KHF SPA,10000000542,Gelateria,Aosta,AL,Liguria,Silver,2024-12-16
+AC00543,Altro SU4SE2 Cooperativa,10000000543,Gelateria,Savona,CN,Piemonte,Platinum,2024-10-06
+AC00544,Pizzeria KYT5GQ SAS,10000000544,Macelleria,Firenze,MI,Emilia-Romagna,Bronze,2022-03-12
+AC00545,Ristorante EXIH1X SRL,10000000545,Alimentari,Varese,AT,Emilia-Romagna,Bronze,2024-06-29
+AC00546,Bar DPZF76 SAS,10000000546,Catering,Forlì,BS,Toscana,Silver,2023-08-17
+AC00547,Alimentari 1HJR6E SAS,10000000547,Bar,Bologna,CN,Lombardia,Silver,2025-10-27
+AC00548,Catering ET0DY5 SPA,10000000548,Alimentari,Varese,TO,Emilia-Romagna,Platinum,2023-08-23
+AC00549,Bar 71VXNZ SAS,10000000549,Catering,Viareggio,RE,Valle d'Aosta,Bronze,2023-05-29
+AC00550,Catering 0NXU43 SRL,10000000550,Catering,Prato,MI,Lombardia,Silver,2022-03-25
