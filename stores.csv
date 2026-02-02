@@ -1,16 +1,19 @@
-StoreId,StoreName
-ST001,GrosMarket 1
-ST002,GrosMarket 2
-ST003,GrosMarket 3
-ST004,GrosMarket 4
-ST005,GrosMarket 5
-ST006,GrosMarket 6
-ST007,GrosMarket 7
-ST008,GrosMarket 8
-ST009,GrosMarket 9
-ST010,GrosMarket 10
-ST011,GrosMarket 11
-ST012,GrosMarket 12
-ST013,GrosMarket 13
-ST014,GrosMarket 14
-ST015,GrosMarket 15
+StoreId,StoreName,Region
+ST001,GrosMarket Genova,Nord-Ovest
+ST002,GrosMarket Torino,Nord-Ovest
+ST003,GrosMarket Milano,Nord-Est
+ST004,GrosMarket Bologna,Nord-Ovest
+ST005,GrosMarket Firenze,Nord-Est
+ST006,GrosMarket Parma,Nord-Ovest
+ST007,GrosMarket Modena,Centro
+ST008,GrosMarket Pisa,Nord-Ovest
+ST009,GrosMarket Livorno,Centro
+ST010,GrosMarket Aosta,Centro
+ST011,GrosMarket Cuneo,Nord-Est
+ST012,GrosMarket Savona,Nord-Ovest
+ST013,GrosMarket La Spezia,Nord-Ovest
+ST014,GrosMarket Bergamo,Nord-Ovest
+ST015,GrosMarket Brescia,Centro
+ST016,GrosMarket Pavia,Centro
+ST017,GrosMarket Rimini,Nord-Ovest
+ST018,GrosMarket Ravenna,Nord-Ovest

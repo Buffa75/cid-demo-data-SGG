@@ -1,101 +1,261 @@
-ProductId,Category,Price
-P0001,Dispensa,53.32
-P0002,Ortofrutta,12.1
-P0003,Ortofrutta,67.83
-P0004,Dispensa,8.76
-P0005,Dispensa,3.75
-P0006,Dispensa,8.53
-P0007,Dispensa,71.54
-P0008,Dispensa,63.89
-P0009,Carni,8.51
-P0010,Pesce,20.28
-P0011,Vino,7.38
-P0012,Dispensa,54.78
-P0013,Vino,47.33
-P0014,Dispensa,76.64
-P0015,Bevande,46.73
-P0016,Vino,43.6
-P0017,Carni,16.95
-P0018,Bevande,26.0
-P0019,Vino,39.71
-P0020,Vino,7.35
-P0021,Carni,11.3
-P0022,Ortofrutta,35.55
-P0023,Dispensa,27.6
-P0024,Vino,41.87
-P0025,Vino,8.97
-P0026,Pesce,74.53
-P0027,Dispensa,31.24
-P0028,Dispensa,20.42
-P0029,Bevande,6.29
-P0030,Pesce,52.84
-P0031,Ortofrutta,43.77
-P0032,Vino,40.62
-P0033,Vino,40.78
-P0034,Carni,71.66
-P0035,Dispensa,64.61
-P0036,Pesce,6.42
-P0037,Bevande,75.91
-P0038,Dispensa,72.63
-P0039,Ortofrutta,13.32
-P0040,Pesce,40.54
-P0041,Vino,74.94
-P0042,Dispensa,20.72
-P0043,Pesce,31.58
-P0044,Ortofrutta,73.96
-P0045,Ortofrutta,44.53
-P0046,Pesce,59.79
-P0047,Dispensa,23.04
-P0048,Carni,52.06
-P0049,Ortofrutta,56.45
-P0050,Ortofrutta,40.4
-P0051,Carni,39.0
-P0052,Dispensa,60.0
-P0053,Carni,27.35
-P0054,Bevande,27.6
-P0055,Carni,48.1
-P0056,Carni,31.02
-P0057,Vino,43.48
-P0058,Pesce,55.55
-P0059,Carni,67.34
-P0060,Bevande,15.12
-P0061,Dispensa,67.82
-P0062,Pesce,27.71
-P0063,Bevande,42.37
-P0064,Pesce,57.36
-P0065,Ortofrutta,35.96
-P0066,Vino,11.67
-P0067,Pesce,74.38
-P0068,Pesce,3.43
-P0069,Carni,27.41
-P0070,Carni,68.37
-P0071,Ortofrutta,19.56
-P0072,Dispensa,53.14
-P0073,Carni,72.85
-P0074,Pesce,8.01
-P0075,Carni,45.27
-P0076,Ortofrutta,14.07
-P0077,Dispensa,8.16
-P0078,Dispensa,48.38
-P0079,Carni,48.39
-P0080,Bevande,30.87
-P0081,Ortofrutta,9.33
-P0082,Bevande,51.19
-P0083,Dispensa,38.45
-P0084,Bevande,15.19
-P0085,Pesce,74.62
-P0086,Carni,12.75
-P0087,Dispensa,18.94
-P0088,Bevande,77.03
-P0089,Dispensa,58.57
-P0090,Pesce,12.27
-P0091,Ortofrutta,68.09
-P0092,Pesce,28.97
-P0093,Bevande,56.94
-P0094,Vino,62.89
-P0095,Pesce,64.44
-P0096,Dispensa,77.54
-P0097,Bevande,66.84
-P0098,Pesce,14.13
-P0099,Carni,57.85
-P0100,Bevande,4.12
+ProductId,ProductName,Category,ListPrice,Brand
+P00001,Prodotto 1 Bevande,Vino,49.8,PremiumX
+P00002,Prodotto 2 Latticini,Pesce,83.93,MarcaA
+P00003,Prodotto 3 Latticini,Carni,69.34,MarcaA
+P00004,Prodotto 4 Dispensa,Ortofrutta,75.91,MarcaB
+P00005,Prodotto 5 Ortofrutta,Latticini,76.52,EconomyY
+P00006,Prodotto 6 Pesce,Pesce,64.83,MarcaA
+P00007,Prodotto 7 Dispensa,Ortofrutta,110.92,MarcaC
+P00008,Prodotto 8 Ortofrutta,Dispensa,106.43,EconomyY
+P00009,Prodotto 9 Carni,Dispensa,96.22,BioZ
+P00010,Prodotto 10 Latticini,Vino,111.61,EconomyY
+P00011,Prodotto 11 Bevande,Dispensa,51.47,PremiumX
+P00012,Prodotto 12 Dispensa,Bevande,17.17,MarcaA
+P00013,Prodotto 13 Carni,Surgelati,23.95,BioZ
+P00014,Prodotto 14 Carni,Latticini,18.87,MarcaB
+P00015,Prodotto 15 Pesce,Vino,107.95,MarcaA
+P00016,Prodotto 16 Bevande,Bevande,60.81,MarcaC
+P00017,Prodotto 17 Ortofrutta,Pesce,31.62,MarcaB
+P00018,Prodotto 18 Pesce,Vino,103.08,PremiumX
+P00019,Prodotto 19 Vino,Carni,18.43,MarcaA
+P00020,Prodotto 20 Latticini,Bevande,83.81,MarcaB
+P00021,Prodotto 21 Carni,Latticini,55.4,MarcaC
+P00022,Prodotto 22 Vino,Surgelati,77.38,MarcaC
+P00023,Prodotto 23 Ortofrutta,Latticini,34.52,PremiumX
+P00024,Prodotto 24 Carni,Carni,51.05,BioZ
+P00025,Prodotto 25 Dispensa,Vino,50.07,PremiumX
+P00026,Prodotto 26 Bevande,Vino,115.57,MarcaB
+P00027,Prodotto 27 Bevande,Vino,68.73,MarcaC
+P00028,Prodotto 28 Dispensa,Vino,83.81,BioZ
+P00029,Prodotto 29 Surgelati,Bevande,31.0,MarcaB
+P00030,Prodotto 30 Pesce,Bevande,82.41,MarcaA
+P00031,Prodotto 31 Dispensa,Bevande,36.8,EconomyY
+P00032,Prodotto 32 Latticini,Pesce,102.03,MarcaA
+P00033,Prodotto 33 Bevande,Bevande,90.92,MarcaA
+P00034,Prodotto 34 Dispensa,Bevande,15.98,MarcaA
+P00035,Prodotto 35 Carni,Carni,15.22,MarcaA
+P00036,Prodotto 36 Carni,Ortofrutta,19.78,MarcaA
+P00037,Prodotto 37 Latticini,Carni,115.58,PremiumX
+P00038,Prodotto 38 Pesce,Carni,70.72,MarcaA
+P00039,Prodotto 39 Carni,Ortofrutta,107.84,EconomyY
+P00040,Prodotto 40 Ortofrutta,Latticini,57.03,PremiumX
+P00041,Prodotto 41 Bevande,Ortofrutta,21.33,MarcaC
+P00042,Prodotto 42 Bevande,Carni,84.56,BioZ
+P00043,Prodotto 43 Pesce,Bevande,40.02,MarcaC
+P00044,Prodotto 44 Pesce,Ortofrutta,36.71,MarcaB
+P00045,Prodotto 45 Ortofrutta,Dispensa,30.27,BioZ
+P00046,Prodotto 46 Latticini,Latticini,72.44,MarcaA
+P00047,Prodotto 47 Carni,Pesce,24.07,MarcaC
+P00048,Prodotto 48 Pesce,Latticini,30.23,MarcaC
+P00049,Prodotto 49 Dispensa,Bevande,30.39,BioZ
+P00050,Prodotto 50 Pesce,Latticini,20.43,BioZ
+P00051,Prodotto 51 Surgelati,Ortofrutta,7.85,MarcaB
+P00052,Prodotto 52 Pesce,Dispensa,13.23,EconomyY
+P00053,Prodotto 53 Ortofrutta,Dispensa,2.11,PremiumX
+P00054,Prodotto 54 Pesce,Latticini,98.38,PremiumX
+P00055,Prodotto 55 Latticini,Bevande,84.67,EconomyY
+P00056,Prodotto 56 Latticini,Ortofrutta,74.63,MarcaA
+P00057,Prodotto 57 Dispensa,Bevande,116.97,BioZ
+P00058,Prodotto 58 Surgelati,Bevande,33.18,BioZ
+P00059,Prodotto 59 Carni,Vino,79.89,MarcaC
+P00060,Prodotto 60 Latticini,Ortofrutta,108.27,PremiumX
+P00061,Prodotto 61 Ortofrutta,Latticini,64.64,PremiumX
+P00062,Prodotto 62 Surgelati,Vino,23.46,PremiumX
+P00063,Prodotto 63 Pesce,Carni,104.84,BioZ
+P00064,Prodotto 64 Dispensa,Vino,72.79,BioZ
+P00065,Prodotto 65 Vino,Surgelati,22.58,MarcaC
+P00066,Prodotto 66 Ortofrutta,Latticini,54.71,PremiumX
+P00067,Prodotto 67 Dispensa,Carni,40.16,BioZ
+P00068,Prodotto 68 Pesce,Pesce,77.42,MarcaB
+P00069,Prodotto 69 Dispensa,Surgelati,109.4,MarcaB
+P00070,Prodotto 70 Surgelati,Dispensa,2.86,MarcaA
+P00071,Prodotto 71 Pesce,Vino,84.09,MarcaA
+P00072,Prodotto 72 Bevande,Bevande,65.22,MarcaC
+P00073,Prodotto 73 Latticini,Carni,90.25,MarcaA
+P00074,Prodotto 74 Ortofrutta,Latticini,42.87,EconomyY
+P00075,Prodotto 75 Ortofrutta,Latticini,18.39,MarcaB
+P00076,Prodotto 76 Surgelati,Surgelati,93.44,MarcaC
+P00077,Prodotto 77 Pesce,Ortofrutta,118.99,MarcaC
+P00078,Prodotto 78 Ortofrutta,Bevande,60.58,MarcaA
+P00079,Prodotto 79 Pesce,Vino,115.67,PremiumX
+P00080,Prodotto 80 Surgelati,Dispensa,34.14,EconomyY
+P00081,Prodotto 81 Ortofrutta,Bevande,105.0,BioZ
+P00082,Prodotto 82 Bevande,Dispensa,10.73,EconomyY
+P00083,Prodotto 83 Surgelati,Dispensa,6.85,MarcaC
+P00084,Prodotto 84 Ortofrutta,Pesce,91.27,MarcaB
+P00085,Prodotto 85 Latticini,Ortofrutta,97.89,BioZ
+P00086,Prodotto 86 Carni,Vino,95.17,BioZ
+P00087,Prodotto 87 Surgelati,Latticini,85.55,EconomyY
+P00088,Prodotto 88 Latticini,Latticini,107.13,MarcaB
+P00089,Prodotto 89 Ortofrutta,Dispensa,114.26,MarcaC
+P00090,Prodotto 90 Bevande,Dispensa,63.38,MarcaC
+P00091,Prodotto 91 Latticini,Bevande,66.79,MarcaB
+P00092,Prodotto 92 Dispensa,Latticini,117.58,MarcaB
+P00093,Prodotto 93 Dispensa,Bevande,31.98,PremiumX
+P00094,Prodotto 94 Carni,Carni,86.35,BioZ
+P00095,Prodotto 95 Bevande,Dispensa,2.89,MarcaA
+P00096,Prodotto 96 Ortofrutta,Bevande,86.1,MarcaA
+P00097,Prodotto 97 Carni,Vino,50.07,BioZ
+P00098,Prodotto 98 Bevande,Pesce,39.6,PremiumX
+P00099,Prodotto 99 Surgelati,Ortofrutta,91.76,PremiumX
+P00100,Prodotto 100 Carni,Bevande,1.92,EconomyY
+P00101,Prodotto 101 Dispensa,Bevande,73.96,EconomyY
+P00102,Prodotto 102 Vino,Ortofrutta,51.43,PremiumX
+P00103,Prodotto 103 Bevande,Carni,88.68,MarcaB
+P00104,Prodotto 104 Dispensa,Surgelati,54.48,MarcaA
+P00105,Prodotto 105 Bevande,Vino,112.85,MarcaC
+P00106,Prodotto 106 Surgelati,Ortofrutta,88.55,MarcaA
+P00107,Prodotto 107 Latticini,Pesce,98.98,MarcaA
+P00108,Prodotto 108 Bevande,Vino,12.3,MarcaB
+P00109,Prodotto 109 Dispensa,Vino,67.68,PremiumX
+P00110,Prodotto 110 Surgelati,Ortofrutta,60.41,BioZ
+P00111,Prodotto 111 Vino,Pesce,66.51,MarcaB
+P00112,Prodotto 112 Surgelati,Carni,101.59,PremiumX
+P00113,Prodotto 113 Vino,Dispensa,110.77,MarcaA
+P00114,Prodotto 114 Pesce,Bevande,82.78,BioZ
+P00115,Prodotto 115 Ortofrutta,Carni,95.65,MarcaB
+P00116,Prodotto 116 Latticini,Surgelati,11.01,MarcaC
+P00117,Prodotto 117 Dispensa,Carni,83.54,MarcaA
+P00118,Prodotto 118 Bevande,Surgelati,119.65,MarcaB
+P00119,Prodotto 119 Ortofrutta,Bevande,49.03,MarcaA
+P00120,Prodotto 120 Pesce,Bevande,48.52,MarcaC
+P00121,Prodotto 121 Pesce,Ortofrutta,53.37,MarcaC
+P00122,Prodotto 122 Dispensa,Latticini,98.67,MarcaA
+P00123,Prodotto 123 Pesce,Dispensa,97.74,PremiumX
+P00124,Prodotto 124 Ortofrutta,Latticini,57.29,MarcaB
+P00125,Prodotto 125 Latticini,Vino,47.74,MarcaB
+P00126,Prodotto 126 Bevande,Vino,70.47,MarcaB
+P00127,Prodotto 127 Dispensa,Dispensa,56.49,PremiumX
+P00128,Prodotto 128 Vino,Pesce,57.0,MarcaB
+P00129,Prodotto 129 Latticini,Latticini,35.07,EconomyY
+P00130,Prodotto 130 Bevande,Ortofrutta,52.22,EconomyY
+P00131,Prodotto 131 Surgelati,Vino,10.9,MarcaA
+P00132,Prodotto 132 Dispensa,Bevande,118.75,BioZ
+P00133,Prodotto 133 Latticini,Ortofrutta,92.12,EconomyY
+P00134,Prodotto 134 Carni,Pesce,70.36,EconomyY
+P00135,Prodotto 135 Ortofrutta,Vino,104.26,BioZ
+P00136,Prodotto 136 Dispensa,Bevande,98.64,PremiumX
+P00137,Prodotto 137 Vino,Latticini,99.29,BioZ
+P00138,Prodotto 138 Surgelati,Dispensa,48.09,EconomyY
+P00139,Prodotto 139 Surgelati,Vino,24.11,EconomyY
+P00140,Prodotto 140 Bevande,Vino,114.88,MarcaB
+P00141,Prodotto 141 Carni,Ortofrutta,97.3,EconomyY
+P00142,Prodotto 142 Latticini,Surgelati,72.71,MarcaC
+P00143,Prodotto 143 Latticini,Vino,94.74,MarcaC
+P00144,Prodotto 144 Surgelati,Vino,76.94,MarcaA
+P00145,Prodotto 145 Vino,Vino,7.48,EconomyY
+P00146,Prodotto 146 Latticini,Carni,90.08,MarcaA
+P00147,Prodotto 147 Pesce,Surgelati,22.03,MarcaA
+P00148,Prodotto 148 Surgelati,Bevande,82.07,MarcaB
+P00149,Prodotto 149 Bevande,Dispensa,61.99,EconomyY
+P00150,Prodotto 150 Surgelati,Carni,36.21,PremiumX
+P00151,Prodotto 151 Bevande,Latticini,16.54,MarcaC
+P00152,Prodotto 152 Dispensa,Carni,46.54,MarcaA
+P00153,Prodotto 153 Vino,Vino,34.4,MarcaB
+P00154,Prodotto 154 Ortofrutta,Carni,47.98,MarcaA
+P00155,Prodotto 155 Surgelati,Bevande,32.04,EconomyY
+P00156,Prodotto 156 Dispensa,Surgelati,73.23,MarcaC
+P00157,Prodotto 157 Vino,Surgelati,33.77,MarcaA
+P00158,Prodotto 158 Latticini,Bevande,3.69,EconomyY
+P00159,Prodotto 159 Vino,Ortofrutta,33.54,PremiumX
+P00160,Prodotto 160 Bevande,Ortofrutta,56.88,MarcaC
+P00161,Prodotto 161 Vino,Carni,73.94,PremiumX
+P00162,Prodotto 162 Surgelati,Vino,66.23,MarcaA
+P00163,Prodotto 163 Surgelati,Pesce,54.28,PremiumX
+P00164,Prodotto 164 Latticini,Dispensa,99.13,BioZ
+P00165,Prodotto 165 Latticini,Dispensa,20.91,MarcaC
+P00166,Prodotto 166 Dispensa,Dispensa,39.85,PremiumX
+P00167,Prodotto 167 Pesce,Latticini,19.37,EconomyY
+P00168,Prodotto 168 Dispensa,Vino,81.0,BioZ
+P00169,Prodotto 169 Dispensa,Vino,23.87,PremiumX
+P00170,Prodotto 170 Bevande,Latticini,94.56,MarcaA
+P00171,Prodotto 171 Vino,Carni,71.23,MarcaB
+P00172,Prodotto 172 Latticini,Vino,90.57,MarcaB
+P00173,Prodotto 173 Vino,Vino,86.52,MarcaA
+P00174,Prodotto 174 Carni,Vino,89.07,EconomyY
+P00175,Prodotto 175 Carni,Latticini,20.19,PremiumX
+P00176,Prodotto 176 Pesce,Carni,17.74,MarcaB
+P00177,Prodotto 177 Bevande,Pesce,102.4,MarcaA
+P00178,Prodotto 178 Carni,Carni,77.48,MarcaA
+P00179,Prodotto 179 Surgelati,Pesce,31.57,EconomyY
+P00180,Prodotto 180 Ortofrutta,Pesce,44.53,PremiumX
+P00181,Prodotto 181 Carni,Carni,106.84,EconomyY
+P00182,Prodotto 182 Pesce,Vino,54.59,MarcaC
+P00183,Prodotto 183 Ortofrutta,Pesce,96.41,MarcaB
+P00184,Prodotto 184 Surgelati,Vino,17.22,MarcaB
+P00185,Prodotto 185 Bevande,Pesce,39.45,MarcaC
+P00186,Prodotto 186 Dispensa,Ortofrutta,79.78,PremiumX
+P00187,Prodotto 187 Surgelati,Pesce,60.76,PremiumX
+P00188,Prodotto 188 Dispensa,Ortofrutta,76.12,MarcaA
+P00189,Prodotto 189 Dispensa,Dispensa,80.14,PremiumX
+P00190,Prodotto 190 Dispensa,Vino,111.69,BioZ
+P00191,Prodotto 191 Surgelati,Latticini,28.07,MarcaC
+P00192,Prodotto 192 Latticini,Bevande,70.68,PremiumX
+P00193,Prodotto 193 Ortofrutta,Bevande,84.43,BioZ
+P00194,Prodotto 194 Pesce,Pesce,39.52,MarcaA
+P00195,Prodotto 195 Dispensa,Bevande,39.78,MarcaB
+P00196,Prodotto 196 Ortofrutta,Vino,106.85,MarcaA
+P00197,Prodotto 197 Vino,Carni,83.44,EconomyY
+P00198,Prodotto 198 Dispensa,Vino,66.15,BioZ
+P00199,Prodotto 199 Pesce,Vino,15.78,PremiumX
+P00200,Prodotto 200 Dispensa,Bevande,26.38,MarcaA
+P00201,Prodotto 201 Carni,Carni,11.88,MarcaA
+P00202,Prodotto 202 Surgelati,Bevande,62.22,PremiumX
+P00203,Prodotto 203 Dispensa,Vino,58.43,MarcaC
+P00204,Prodotto 204 Ortofrutta,Bevande,43.53,BioZ
+P00205,Prodotto 205 Bevande,Pesce,53.58,MarcaA
+P00206,Prodotto 206 Carni,Carni,11.44,MarcaC
+P00207,Prodotto 207 Pesce,Carni,29.81,MarcaC
+P00208,Prodotto 208 Bevande,Vino,59.32,MarcaB
+P00209,Prodotto 209 Carni,Latticini,89.53,MarcaA
+P00210,Prodotto 210 Latticini,Ortofrutta,12.57,MarcaC
+P00211,Prodotto 211 Bevande,Dispensa,4.58,PremiumX
+P00212,Prodotto 212 Surgelati,Ortofrutta,39.79,MarcaB
+P00213,Prodotto 213 Carni,Ortofrutta,18.21,BioZ
+P00214,Prodotto 214 Latticini,Surgelati,49.09,EconomyY
+P00215,Prodotto 215 Bevande,Ortofrutta,81.13,EconomyY
+P00216,Prodotto 216 Latticini,Surgelati,70.51,MarcaC
+P00217,Prodotto 217 Bevande,Latticini,70.28,MarcaB
+P00218,Prodotto 218 Surgelati,Bevande,16.28,BioZ
+P00219,Prodotto 219 Surgelati,Ortofrutta,77.97,BioZ
+P00220,Prodotto 220 Carni,Ortofrutta,65.03,MarcaC
+P00221,Prodotto 221 Vino,Bevande,102.51,BioZ
+P00222,Prodotto 222 Vino,Bevande,104.97,PremiumX
+P00223,Prodotto 223 Pesce,Latticini,89.73,BioZ
+P00224,Prodotto 224 Dispensa,Latticini,59.8,MarcaB
+P00225,Prodotto 225 Carni,Bevande,75.23,PremiumX
+P00226,Prodotto 226 Dispensa,Carni,27.65,MarcaA
+P00227,Prodotto 227 Latticini,Bevande,58.07,MarcaA
+P00228,Prodotto 228 Bevande,Dispensa,61.82,MarcaA
+P00229,Prodotto 229 Dispensa,Carni,97.95,MarcaB
+P00230,Prodotto 230 Pesce,Carni,90.93,MarcaB
+P00231,Prodotto 231 Dispensa,Pesce,6.57,BioZ
+P00232,Prodotto 232 Latticini,Latticini,119.24,MarcaB
+P00233,Prodotto 233 Dispensa,Ortofrutta,8.28,BioZ
+P00234,Prodotto 234 Surgelati,Dispensa,75.33,PremiumX
+P00235,Prodotto 235 Dispensa,Vino,5.3,MarcaB
+P00236,Prodotto 236 Latticini,Pesce,26.44,EconomyY
+P00237,Prodotto 237 Vino,Vino,48.69,EconomyY
+P00238,Prodotto 238 Latticini,Vino,66.0,MarcaC
+P00239,Prodotto 239 Vino,Vino,104.19,PremiumX
+P00240,Prodotto 240 Latticini,Vino,108.12,MarcaC
+P00241,Prodotto 241 Carni,Vino,59.09,BioZ
+P00242,Prodotto 242 Latticini,Carni,115.43,MarcaC
+P00243,Prodotto 243 Ortofrutta,Dispensa,62.48,EconomyY
+P00244,Prodotto 244 Surgelati,Pesce,94.67,MarcaA
+P00245,Prodotto 245 Surgelati,Dispensa,15.34,MarcaA
+P00246,Prodotto 246 Bevande,Latticini,9.76,BioZ
+P00247,Prodotto 247 Dispensa,Bevande,4.58,MarcaA
+P00248,Prodotto 248 Bevande,Carni,76.41,EconomyY
+P00249,Prodotto 249 Dispensa,Bevande,35.42,MarcaC
+P00250,Prodotto 250 Carni,Pesce,57.25,MarcaB
+P00251,Prodotto 251 Bevande,Latticini,77.87,EconomyY
+P00252,Prodotto 252 Dispensa,Pesce,37.27,MarcaC
+P00253,Prodotto 253 Surgelati,Bevande,12.95,BioZ
+P00254,Prodotto 254 Vino,Ortofrutta,63.11,MarcaA
+P00255,Prodotto 255 Pesce,Pesce,24.77,MarcaC
+P00256,Prodotto 256 Surgelati,Bevande,40.26,BioZ
+P00257,Prodotto 257 Ortofrutta,Dispensa,41.51,MarcaC
+P00258,Prodotto 258 Latticini,Ortofrutta,46.36,PremiumX
+P00259,Prodotto 259 Surgelati,Pesce,24.75,MarcaC
+P00260,Prodotto 260 Bevande,Surgelati,40.89,MarcaA
