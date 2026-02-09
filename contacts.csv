@@ -1,4 +1,4 @@
-ContactId;FirstName;LastName;Email;CustomerType;Phone;City;Province;RegistrationDate;PreferredContactChannel;MarketingConsent;ProfilingConsent;LoyaltyMember;PreferredStoreId
+﻿ContactId;FirstName;LastName;Email;CustomerType;Phone;City;Province;RegistrationDate;PreferredContactChannel;MarketingConsent;ProfilingConsent;LoyaltyMember;PreferredStoreId
 CT000001;Chiara;Rossi;user1@example.it;B2C;3,93671E+11;Modena;SP;31/10/2023;SMS;No;Yes;Yes;ST008
 CT000002;Luca;Marino;user2@example.it;B2B;3,9327E+11;Brescia;PO;22/10/2024;Email;Yes;Yes;Yes;ST012
 CT000003;Francesca;Marino;user3@example.it;B2B;3,93671E+11;Cuneo;SV;13/12/2023;Email;Yes;No;Yes;ST012
