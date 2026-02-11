@@ -1,19 +1,23 @@
-StoreId,StoreName,Region,StoreType,City,Province,OpeningDate,SurfaceMq,HasWineCellar,TargetCustomers
-ST001,GrosMarket Genova,Nord-Ovest,Iper,Genova,GE,2008-07-26,Medium,Yes,B2B
-ST002,GrosMarket Torino,Nord-Est,Cash&Carry,Torino,TO,2019-09-19,Small,No,B2B
-ST003,GrosMarket Milano,Nord-Ovest,Cash&Carry,Milano,MI,2005-03-17,Small,No,B2B
-ST004,GrosMarket Bologna,Nord-Est,Cash&Carry,Bologna,BO,2018-10-12,Small,No,B2B
-ST005,GrosMarket Firenze,Nord-Ovest,Iper,Firenze,FI,2006-01-12,Medium,Yes,B2B
-ST006,GrosMarket Parma,Nord-Ovest,City,Parma,PR,2015-02-11,Medium,No,B2B
-ST007,GrosMarket Modena,Nord-Est,Cash&Carry,Modena,MO,2009-03-17,Small,Yes,Mixed
-ST008,GrosMarket Pisa,Nord-Est,City,Pisa,PI,2006-07-16,Small,Yes,B2B
-ST009,GrosMarket Livorno,Nord-Est,Cash&Carry,Livorno,LI,2021-03-20,Small,No,Mixed
-ST010,GrosMarket Aosta,Centro,Outlet,Aosta,AO,2007-07-08,Medium,No,B2B
-ST011,GrosMarket Cuneo,Nord-Est,City,Cuneo,CN,2014-07-16,Medium,No,B2B
-ST012,GrosMarket Savona,Nord-Est,Cash&Carry,Savona,SV,2018-08-17,Medium,Yes,Mixed
-ST013,GrosMarket La Spezia,Centro,Cash&Carry,La Spezia,SP,2014-09-26,Medium,No,Mixed
-ST014,GrosMarket Bergamo,Nord-Ovest,Cash&Carry,Bergamo,BG,2018-02-02,Small,Yes,Mixed
-ST015,GrosMarket Brescia,Nord-Ovest,Cash&Carry,Brescia,BS,2012-05-03,Small,No,B2C
-ST016,GrosMarket Pavia,Nord-Ovest,Cash&Carry,Pavia,PV,2009-04-25,Large,No,B2B
-ST017,GrosMarket Rimini,Nord-Ovest,Iper,Rimini,RN,2008-04-11,Medium,No,B2B
-ST018,GrosMarket Ravenna,Nord-Est,Cash&Carry,Ravenna,RA,2024-02-03,Small,Yes,Mixed
+StoreId,StoreName,Region,StoreType,City,Province,OpeningDate,SurfaceMq,HasWineCellar,TargetCustomers,SogegrossBanner
+ST001,Grosmarket Prato,Nord-Ovest,Cash&Carry,Prato,LI,2025-07-30,Large,Yes,B2B,Grosmarket
+ST002,Basko Pisa,Nord-Ovest,Superstore,Pisa,AR,2008-06-24,Medium,Yes,Mixed,Basko
+ST003,Grosmarket Arezzo,Nord-Ovest,Cash&Carry,Arezzo,FI,2020-08-01,Medium,Yes,B2B,Grosmarket
+ST004,Basko Firenze,Nord-Ovest,Superstore,Firenze,CN,2006-01-12,Medium,No,Mixed,Basko
+ST005,Basko Modena,Nord-Ovest,Superstore,Modena,PI,2004-01-02,Medium,No,Mixed,Basko
+ST006,Grosmarket Parma,Nord-Ovest,Cash&Carry,Parma,SV,2006-07-16,Medium,No,B2B,Grosmarket
+ST007,Basko Savona,Centro,Superstore,Savona,SP,2015-09-07,Small,No,Mixed,Basko
+ST008,DOROsupermercati Aosta,Nord-Ovest,Franchising,Aosta,AO,2024-04-18,Small,No,Mixed,DOROsupermercati
+ST009,Basko Firenze,Nord-Ovest,Superstore,Firenze,CN,2005-07-01,Medium,Yes,Mixed,Basko
+ST010,Grosmarket Parma,Nord-Ovest,Cash&Carry,Parma,PO,2018-05-05,Medium,No,B2B,Grosmarket
+ST011,Grosmarket Pavia,Nord-Ovest,Cash&Carry,Pavia,PI,2009-06-20,Medium,No,B2B,Grosmarket
+ST012,Grosmarket Rimini,Nord-Ovest,Cash&Carry,Rimini,MI,2004-11-07,Medium,No,B2B,Grosmarket
+ST013,Grosmarket Pisa,Centro,Cash&Carry,Pisa,BS,2021-01-09,Medium,No,B2B,Grosmarket
+ST014,Ekom Pisa,Nord-Est,Discount,Pisa,BO,2012-02-03,Large,Yes,B2C,Ekom
+ST015,Ekom Bergamo,Nord-Ovest,Discount,Bergamo,PV,2023-03-12,Small,No,B2C,Ekom
+ST016,Basko Savona,Centro,Superstore,Savona,PI,2025-05-07,Small,No,Mixed,Basko
+ST017,DOROsupermercati Bologna,Nord-Ovest,Franchising,Bologna,LI,2008-06-05,Large,No,Mixed,DOROsupermercati
+ST018,Basko Pavia,Nord-Ovest,Superstore,Pavia,RN,2009-10-23,Small,Yes,Mixed,Basko
+ST019,Grosmarket Genova,Nord-Ovest,Cash&Carry,Genova,PO,2018-10-21,Medium,No,B2B,Grosmarket
+ST020,DOROsupermercati Bologna,Nord-Ovest,Franchising,Bologna,FI,2010-08-03,Medium,No,Mixed,DOROsupermercati
+ST021,Basko Bergamo,Nord-Ovest,Superstore,Bergamo,RA,2016-03-17,Small,Yes,Mixed,Basko
+ST022,Basko Arezzo,Centro,Superstore,Arezzo,MO,2025-01-02,Medium,Yes,Mixed,Basko
